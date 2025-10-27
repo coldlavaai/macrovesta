@@ -38,7 +38,7 @@ export default function TestimonialsSection() {
           <div className="relative">
             {/* Quote Icon */}
             <div className="absolute -top-6 -left-6 text-7xl text-mv-accent-turquoise/20 font-serif">
-              "
+              &ldquo;
             </div>
 
             <p className="text-lg md:text-xl text-gray-300 italic leading-relaxed mb-8">

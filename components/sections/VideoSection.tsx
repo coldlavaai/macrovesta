@@ -55,8 +55,8 @@ export default function VideoSection() {
         >
           As your digital market advisor, Macrovesta simplifies processes to save
           time, reduce costs, and mitigate risks, ultimately enhancing your
-          business's profitability. Watch now to see how you can leverage
-          Macrovesta's innovative tools to revolutionise how you approach pricing
+          business&apos;s profitability. Watch now to see how you can leverage
+          Macrovesta&apos;s innovative tools to revolutionise how you approach pricing
           strategy and risk management in the cotton industry.
         </motion.p>
       </Container>
