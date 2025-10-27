@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-mv-gray-900 text-gray-100;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  /* Glassmorphism utility classes */
+  .glass {
+    @apply bg-white/5 backdrop-blur-lg border border-white/10;
+  }
+
+  .glass-strong {
+    @apply bg-white/10 backdrop-blur-xl border border-white/20;
+  }
+
+  .glass-card {
+    @apply glass rounded-2xl p-6 transition-all duration-300 hover:bg-white/10 hover:border-white/20 hover:shadow-2xl;
+  }
+
+  /* Custom gradient text */
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r;
+  }
+
+  .gradient-text-blue {
+    @apply gradient-text from-mv-blue-400 via-mv-blue-500 to-mv-blue-700;
+  }
+
+  .gradient-text-green {
+    @apply gradient-text from-mv-accent-turquoise to-mv-accent-green;
+  }
+
+  .gradient-text-red {
+    @apply gradient-text from-mv-accent-orange to-mv-accent-red;
+  }
+
+  /* Custom gradients */
+  .gradient-bg-blue {
+    @apply bg-gradient-to-br from-mv-blue-700 via-mv-blue-800 to-mv-blue-900;
+  }
+
+  .gradient-bg-radial {
+    background: radial-gradient(circle at 50% 0%, rgba(0, 61, 128, 0.3) 0%, transparent 50%);
+  }
+
+  /* Hover effects */
+  .hover-lift {
+    @apply transition-transform duration-300 hover:-translate-y-1;
+  }
+
+  .hover-glow {
+    @apply transition-shadow duration-300 hover:shadow-[0_0_30px_rgba(58,188,172,0.3)];
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-mv-gray-900;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-mv-blue-700 rounded-full;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-mv-blue-600;
+  }
+}
+
+@layer utilities {
+  /* Custom animations */
+  .animate-delay-100 {
+    animation-delay: 100ms;
+  }
+
+  .animate-delay-200 {
+    animation-delay: 200ms;
+  }
+
+  .animate-delay-300 {
+    animation-delay: 300ms;
+  }
+
+  .animate-delay-400 {
+    animation-delay: 400ms;
+  }
+
+  .animate-delay-500 {
+    animation-delay: 500ms;
+  }
+}
+
+/* Particle background effect */
+.particles {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.particle {
+  position: absolute;
+  background: radial-gradient(circle, rgba(58, 188, 172, 0.3), transparent);
+  border-radius: 50%;
+  animation: float 20s infinite ease-in-out;
+}
+
+/* Grid background effect */
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 50px 50px;
+}
+
+/* Shimmer effect */
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+.shimmer {
+  animation: shimmer 3s infinite;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.1) 50%,
+    transparent 100%
+  );
+  background-size: 1000px 100%;
+}
