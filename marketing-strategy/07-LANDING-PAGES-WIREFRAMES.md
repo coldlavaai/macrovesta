@@ -66,7 +66,7 @@ Icon: ⚡
 • Cotton on Call (Weekly)
 • Crop Progress (Weekly)
 
-COLUMN 2: AI Analyzes in Seconds
+COLUMN 2: AI Analyses in Seconds
 Icon: 🧠
 • Managed money positioning
 • Commercial hedger activity
@@ -261,7 +261,7 @@ COLUMN 3: Automation Checklist
 Icon: ✅
 • Which reports can be automated?
 • Which analyses can be templated?
-• Where to start optimizing
+• Where to start optimising
 
 ───────────────────────────────────────────────────────────────
 
@@ -372,7 +372,7 @@ Privacy Policy | Unsubscribe
 
 **Page 5: Automation Checklist**
 - Checklist:
-  - ☐ Which reports do you analyze manually?
+  - ☐ Which reports do you analyse manually?
   - ☐ Which reports arrive at inconvenient times?
   - ☐ Which analyses follow a repeatable pattern?
   - ☐ Which insights do clients need most urgently?

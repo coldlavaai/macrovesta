@@ -7,7 +7,14 @@
 
 ## Overview
 
-This document summarizes the complete zero-to-sales marketing strategy for Macrovesta, designed to acquire 100+ paying customers within 6 months.
+This document summarises the complete zero-to-sales marketing strategy for Macrovesta, designed to acquire 100+ paying customers within 6 months.
+
+**Built on the 1-3-5® Planning Methodology:**
+- **THE 1** = One crystal-clear vision of success for each phase
+- **THE 3** = Three mission-critical objectives that enable the vision
+- **THE 5** = Five action-oriented goals per objective (15 total actions per phase)
+
+This framework is the **lifeblood of our entire strategy** - every phase, every campaign, every action is structured using 1-3-5 to ensure focused execution with measurable progress towards clear goals.
 
 ---
 
@@ -32,8 +39,8 @@ This document summarizes the complete zero-to-sales marketing strategy for Macro
 **One-Liner:** "Turn your 10-hour Friday into a 30-second WhatsApp alert"
 
 **The Friday Problem:**
-- Thursday 11 AM: USDA Export Sales → 2-3 hours analyzing
-- Friday 3:30 PM: CFTC COT Report → 2-3 hours analyzing
+- Thursday 11 AM: USDA Export Sales → 2-3 hours analysing
+- Friday 3:30 PM: CFTC COT Report → 2-3 hours analysing
 - Friday evening: Writing client summaries → 2 hours
 - Weekend: Catching up on other reports → 2-3 hours
 - **Total: 8-10 hours/week. Every. Single. Week.**
@@ -91,12 +98,12 @@ This document summarizes the complete zero-to-sales marketing strategy for Macro
 
 ---
 
-### PHASE 3: Optimize (Month 4+)
+### PHASE 3: Optimise (Month 4+)
 **Goal:** 100-200 paying customers
 **Budget:** £3,000-5,000/month
 **Tactics:**
 - Scale paid ads (Google + LinkedIn)
-- Quiz funnel (personalized lead qualification)
+- Quiz funnel (personalised lead qualification)
 - Webinars (educate at scale, 50-100 attendees/month)
 - Industry partnerships (Cotton Outlook, trade associations)
 - Conference presence (ICAC, National Cotton Council)
@@ -167,7 +174,7 @@ This document summarizes the complete zero-to-sales marketing strategy for Macro
 - 13x cheaper
 
 **vs. SpreadCharts (£1.2K/year):**
-- SpreadCharts: COT only, charts and visualization
+- SpreadCharts: COT only, charts and visualisation
 - Macrovesta: COT + USDA + Cotton on Call + Crop Progress, written analysis
 - Worth £600 more for complete coverage
 
@@ -287,17 +294,45 @@ Paid Customer
 
 ## Deliverables Provided
 
+**1-3-5® Execution Plans (The Lifeblood):**
+1. **Phase 1 Execution Plan (1-3-5)** - Complete 4-week action plan with 1 vision, 3 objectives, 15 actions
+2. **Phase 2 Execution Plan (1-3-5)** - 8-week action plan for scaling paid acquisition
+3. **Phase 3 Execution Plan (1-3-5)** - Ongoing optimisation and expansion plan
+
 **Strategic Documents:**
-1. Messaging Framework (28 pages) - Personas, positioning, objection handling
-2. Lead Generation Playbook (45 pages) - Phase-by-phase execution plan
-3. Channel Priority Analysis (20 pages) - Where to spend budget, where to avoid
-4. Email Template Library (27 templates) - Copy-paste ready for all stages
-5. LinkedIn Outreach Scripts (12+ templates) - Connection requests, InMails, follow-ups
-6. n8n DBR Workflows (reference) - Automation blueprints
-7. Landing Page Copy (3 pages) - Advisors, traders, lead magnets
-8. Content Calendar (3 months) - Blog posts, LinkedIn posts, email campaigns
+4. Messaging Framework (28 pages) - Personas, positioning, objection handling
+5. Lead Generation Playbook (45 pages) - Phase-by-phase execution plan
+6. Channel Priority Analysis (20 pages) - Where to spend budget, where to avoid
+7. Email Template Library (27 templates) - Copy-paste ready for all stages
+8. LinkedIn Outreach Scripts (12+ templates) - Connection requests, InMails, follow-ups
+9. n8n DBR Workflows (reference) - Automation blueprints
+10. Landing Page Copy (3 pages) - Advisors, traders, lead magnets
+11. Content Calendar (3 months) - Blog posts, LinkedIn posts, email campaigns
 
 **Total Strategic Documentation:** 60,000+ words
+
+---
+
+## 1-3-5® Framework: Your North Star
+
+**Every action we take flows through the 1-3-5® methodology:**
+
+**Phase 1 (Weeks 1-4):**
+- **THE 1:** 30+ paying customers, £4,500+ MRR, £0-500 spend
+- **THE 3:** (1) Liverpool Cotton Brokers list → 15-20 customers, (2) Joe's personal network → 10+ customers, (3) Industry relationships → 5-10+ customers
+- **THE 5:** 15 specific actions mapped week-by-week
+
+**Phase 2 (Weeks 5-12):**
+- **THE 1:** 100 paying customers, £15,000 MRR, validated paid acquisition
+- **THE 3:** (1) Google Ads scaled, (2) LinkedIn Ads scaled, (3) Content marketing producing leads
+- **THE 5:** 15 actions for paid acquisition optimization
+
+**Phase 3 (Month 4+):**
+- **THE 1:** 200+ paying customers, £30,000 MRR, sustainable growth engine
+- **THE 3:** (1) Advanced funnels converting, (2) Industry partnerships live, (3) Trader market penetration
+- **THE 5:** 15 actions for market expansion
+
+**Full execution plans available in dedicated 1-3-5 documents.**
 
 ---
 
@@ -337,7 +372,7 @@ Paid Customer
 **4. Phased Approach Reduces Risk**
 - Phase 1 proves messaging with minimal budget
 - Phase 2 scales what works
-- Phase 3 optimizes and expands
+- Phase 3 optimises and expands
 - Each phase has clear go/no-go criteria
 
 **5. Automation Maximizes Conversion**

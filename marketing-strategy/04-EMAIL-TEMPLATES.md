@@ -64,11 +64,11 @@ Hi [Name],
 
 Hope you're well! Quick question:
 
-How much time does your team spend analyzing USDA and COT reports each week?
+How much time does your team spend analysing USDA and COT reports each week?
 
 I ask because we just launched something at Macrovesta that automates the entire process - turns 10 hours of Friday analysis into 30-second WhatsApp alerts.
 
-Example: Friday at 3:30 PM, instead of spending 3 hours analyzing COT data, you get:
+Example: Friday at 3:30 PM, instead of spending 3 hours analysing COT data, you get:
 
 "Managed money short 62,004 contracts (up 8,000 from last week). Bearish positioning for cotton."
 
@@ -82,7 +82,7 @@ Joe / Macrovesta Team
 P.S. - 14-day free trial if you want to test it this week. No credit card needed.
 ```
 
-**Personalization Variables:**
+**Personalisation Variables:**
 - `[Name]` - Replace with first name
 - Optional: Add specific context if you know their workflow ("Last time we talked, you mentioned spending weekends on reports...")
 
@@ -297,7 +297,7 @@ Thanks for booking a demo! Looking forward to showing you how Macrovesta can aut
 - Q&A about your specific needs
 
 **To get the most out of our call:**
-If you can, have last Friday's COT report handy. We'll walk through how Macrovesta would have analyzed it for you.
+If you can, have last Friday's COT report handy. We'll walk through how Macrovesta would have analysed it for you.
 
 See you on [Day]!
 
@@ -372,7 +372,7 @@ Hi [Name],
 
 I noticed you weren't able to make our demo earlier today at [Time].
 
-No worries - I know Fridays get hectic (especially if you spent the afternoon analyzing COT reports 😊).
+No worries - I know Fridays get hectic (especially if you spent the afternoon analysing COT reports 😊).
 
 I recorded a quick 3-minute walkthrough showing exactly what we would have covered:
 
@@ -380,7 +380,7 @@ I recorded a quick 3-minute walkthrough showing exactly what we would have cover
 
 Key highlights:
 ✓ How Macrovesta turns 10 hours of Friday analysis into 30 seconds
-✓ Example: Last week's COT report analyzed in plain language
+✓ Example: Last week's COT report analysed in plain language
 ✓ How to forward alerts to clients (saves even more time)
 
 If this looks interesting, you can:
@@ -409,7 +409,7 @@ Hi [Name],
 
 Following up on the demo you booked earlier this week.
 
-Quick question: how much time does your team currently spend analyzing USDA and COT reports each week?
+Quick question: how much time does your team currently spend analysing USDA and COT reports each week?
 
 Most advisors we talk to say 8-10 hours. At £50/hour, that's £20,000-£26,000/year in time value.
 
@@ -477,7 +477,7 @@ P.S. - If you know another cotton advisor who might benefit from this, feel free
 ```
 Hi [Name],
 
-Great talking with you yesterday! You mentioned you spend [X] hours/week analyzing cotton market reports.
+Great talking with you yesterday! You mentioned you spend [X] hours/week analysing cotton market reports.
 
 I wanted to show you exactly what you would have received if you'd been using Macrovesta last Friday.
 
@@ -510,7 +510,7 @@ Joe / Macrovesta
 P.S. - At [X] hours/week, you're spending ~[X*52] hours/year on analysis. That's [X*52/40] work weeks. Imagine getting that time back.
 ```
 
-**Personalization:**
+**Personalisation:**
 - Replace `[X]` with hours they mentioned in demo
 - Replace example analysis with actual recent COT data
 
@@ -586,7 +586,7 @@ Or if you have a specific question I didn't address, just reply to this email.
 Best,
 Joe / Macrovesta
 
-P.S. - This Friday's COT report could be the first one you DON'T manually analyze. Up to you.
+P.S. - This Friday's COT report could be the first one you DON'T manually analyse. Up to you.
 ```
 
 ---
@@ -728,7 +728,7 @@ Questions? Just reply.
 Best,
 Joe / Macrovesta
 
-P.S. - Here's what [Similar Advisor] said after their first week: "I didn't realize how much Friday stress I was carrying until I didn't have to analyze reports anymore."
+P.S. - Here's what [Similar Advisor] said after their first week: "I didn't realize how much Friday stress I was carrying until I didn't have to analyse reports anymore."
 ```
 
 ---
@@ -863,7 +863,7 @@ Hi,
 
 You downloaded our comparison guide yesterday - hope it was helpful!
 
-Quick question: do you currently analyze CFTC COT reports?
+Quick question: do you currently analyse CFTC COT reports?
 
 Most commodity advisors spend 2-3 hours every Friday pulling data from the PDF and figuring out what it means.
 
@@ -914,7 +914,7 @@ I built a quick ROI calculator to help advisors figure out if their current mark
 **[Open ROI Calculator]** (2-minute tool)
 
 It asks:
-- How many hours/week do you spend analyzing reports?
+- How many hours/week do you spend analysing reports?
 - What's your hourly rate?
 - What tools do you currently pay for?
 
@@ -977,7 +977,7 @@ If it doesn't, no worries - hopefully the video was still interesting!
 Best,
 Joe / Macrovesta
 
-P.S. - This Friday at 3:30 PM, you could get your first automated COT alert. Or you could spend 3 hours manually analyzing like usual. Your choice.
+P.S. - This Friday at 3:30 PM, you could get your first automated COT alert. Or you could spend 3 hours manually analysing like usual. Your choice.
 ```
 
 ---
@@ -999,7 +999,7 @@ I wanted to share a quick case study about an advisor similar to you:
 **David T. - Independent Cotton Advisor, Texas**
 
 Before Macrovesta:
-- Spent 10 hours/week analyzing reports
+- Spent 10 hours/week analysing reports
 - Friday evenings writing client summaries
 - Missing family dinners
 - Couldn't take on more clients (time-maxed)
@@ -1040,7 +1040,7 @@ P.S. - If Macrovesta isn't a fit but you know another advisor who'd benefit, fee
 
 # TEMPLATE USAGE GUIDE
 
-## How to Personalize:
+## How to Personalise:
 
 1. **Replace bracketed variables:**
    - `[Name]` → Lead's first name
@@ -1052,7 +1052,7 @@ P.S. - If Macrovesta isn't a fit but you know another advisor who'd benefit, fee
 2. **Add specific context when possible:**
    - Reference previous conversation: "When we talked last week, you mentioned..."
    - Use their company name: "I saw on LinkedIn you work at [Company]..."
-   - Mention their specific pain: "You said you spend weekends analyzing..."
+   - Mention their specific pain: "You said you spend weekends analysing..."
 
 3. **Adjust tone for relationship:**
    - Warm leads (Joe's network): More casual, personal
@@ -1099,7 +1099,7 @@ P.S. - If Macrovesta isn't a fit but you know another advisor who'd benefit, fee
 ---
 
 **Total Templates:** 27
-**Ready to Use:** Yes (just personalize variables)
+**Ready to Use:** Yes (just personalise variables)
 **Average Email Length:** 200-300 words
 **Tone:** Professional, conversational, value-focused
 

@@ -59,8 +59,8 @@
 - 3 lead magnets (Friday Workflow Audit, ROI Calculator, 2026 Outlook)
 - Email nurture sequences
 
-**Phase 3: Optimize (Month 4+) - £3,000-5,000/month budget**
-- Quiz funnel (6 questions, personalized results)
+**Phase 3: Optimise (Month 4+) - £3,000-5,000/month budget**
+- Quiz funnel (6 questions, personalised results)
 - Webinar funnel (45-minute format)
 - Industry partnerships
 - Conference presence
@@ -98,8 +98,8 @@ Copy-paste ready for every stage:
 - Follow-up sequences (4-message sequence)
 - Engagement scripts (commenting, sharing, responding)
 - LinkedIn post templates (Educational, Product Demo, Testimonial)
-- Best practices (timing, frequency, personalization, A/B testing)
-- LinkedIn profile optimization guide for Joe
+- Best practices (timing, frequency, personalisation, A/B testing)
+- LinkedIn profile optimisation guide for Joe
 
 #### **07-LANDING-PAGES-WIREFRAMES.md**
 Complete copy + structure for 3 landing pages:

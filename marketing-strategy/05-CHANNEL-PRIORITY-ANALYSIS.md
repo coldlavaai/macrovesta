@@ -57,7 +57,7 @@ Commodity advisors are **NOT** your typical SaaS buyer. They're:
 **Why:** When they have a specific problem, they Google it
 
 **What They Search For:**
-- "how to analyze COT report faster"
+- "how to analyse COT report faster"
 - "USDA report analysis tool"
 - "cotton market intelligence software"
 - "commodity trading automation"
@@ -125,7 +125,7 @@ Commodity advisors are **NOT** your typical SaaS buyer. They're:
 - **Regional cooperatives** - Local networking
 
 **How to Reach Them:**
-- **Booth:** Demo Macrovesta live ("See Friday's COT report analyzed in 30 seconds")
+- **Booth:** Demo Macrovesta live ("See Friday's COT report analysed in 30 seconds")
 - **Speaking slot:** "Panel on Modern Tools for Cotton Advisors"
 - **Sponsorship:** Logo on badges, bags, conference app
 - **Networking:** Joe attends, talks 1-on-1
@@ -183,7 +183,7 @@ Commodity advisors are **NOT** your typical SaaS buyer. They're:
 - "How to" tutorials
 
 **How to Reach Them:**
-- **Create content:** "How to Analyze COT Reports in 5 Minutes"
+- **Create content:** "How to Analyse COT Reports in 5 Minutes"
 - **Pre-roll ads:** On cotton industry videos (low volume)
 - **Channel growth:** Slow, but builds authority
 
@@ -336,7 +336,7 @@ Commodity advisors are **NOT** your typical SaaS buyer. They're:
 - "commodity advisor software" (40 searches/month, medium competition)
 
 ### Secondary (Educational, Higher Volume):
-- "how to analyze COT reports" (500 searches/month, medium competition)
+- "how to analyse COT reports" (500 searches/month, medium competition)
 - "USDA export sales report explained" (300 searches/month, low competition)
 - "cotton price forecast tools" (200 searches/month, medium competition)
 
@@ -347,7 +347,7 @@ Commodity advisors are **NOT** your typical SaaS buyer. They're:
 **SEO Content Plan:**
 
 **Month 1-3: Educational Foundation**
-1. "How to Analyze COT Reports Without Spending 3 Hours" (rank for: how to analyze COT reports)
+1. "How to Analyse COT Reports Without Spending 3 Hours" (rank for: how to analyse COT reports)
 2. "USDA Export Sales Report: A Step-by-Step Guide for Cotton Advisors" (rank for: USDA export sales explained)
 3. "The Hidden Cost of Manual Commodity Analysis" (rank for: commodity advisor productivity)
 
@@ -385,7 +385,7 @@ Ad Group 1: Report Automation
 - commodity report automation software
 
 Ad Group 2: Time Savings
-- reduce time analyzing cotton reports
+- reduce time analysing cotton reports
 - faster COT report analysis
 - commodity advisor productivity tool
 
@@ -463,11 +463,11 @@ Ad Group 4: SpreadCharts Alternative
 
 **Ad Copy:**
 ```
-Headline: Stop Spending Fridays Analyzing Reports
+Headline: Stop Spending Fridays Analysing Reports
 
 Body:
 Every Friday at 3:30 PM, the COT report drops.
-You spend the next 3 hours analyzing it.
+You spend the next 3 hours analysing it.
 Your weekend starts late. Again.
 
 Macrovesta automates this.

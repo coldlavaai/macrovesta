@@ -21,7 +21,7 @@ This playbook outlines a 3-phase approach to generate leads and sales for Macrov
 **Phased Approach:**
 - **Phase 1 (Weeks 1-4):** Quick wins using Joe's network, organic LinkedIn, warm outreach - £0-500 spend
 - **Phase 2 (Weeks 5-12):** Scale with paid ads, content marketing, lead magnets - £1,500-3,000/month spend
-- **Phase 3 (Month 4+):** Optimize with advanced funnels, partnerships, expand to traders - £3,000-5,000/month spend
+- **Phase 3 (Month 4+):** Optimise with advanced funnels, partnerships, expand to traders - £3,000-5,000/month spend
 
 ---
 
@@ -90,14 +90,14 @@ It's called Macrovesta.
 
 The moment USDA Export Sales, CFTC COT, Cotton on Call, or Crop Progress reports drop, Macrovesta:
 1. Pulls the data
-2. Analyzes it using AI (trained on our 10+ years of Earlam & Partners consultancy)
+2. Analyses it using AI (trained on our 10+ years of Earlam & Partners consultancy)
 3. Sends you a plain-language WhatsApp alert: "Managed money short 62,004 contracts, up 8,000. Bearish signal."
 
 Forward it to your clients. Add your insights. Done in 30 seconds.
 
 **No more:**
 - Waiting for the weekend report
-- Spending 3 hours manually analyzing COT on Friday evening
+- Spending 3 hours manually analysing COT on Friday evening
 - Copy-pasting data from PDFs
 - Missing signals because you checked the report on Monday
 
@@ -127,7 +127,7 @@ P.S. - If you know other advisors or traders who'd benefit from this, feel free 
 **Timing:** Send Monday morning (so they can trial before Thursday/Friday reports)
 
 **Expected Results:**
-- Open rate: 40-60% (warm list, recognized sender)
+- Open rate: 40-60% (warm list, recognised sender)
 - Click-through: 15-25% (clear value prop, existing trust)
 - Trial signup: 10-20% of opens
 - If list is 500 people → 200 opens → 30-40 trial signups
@@ -145,7 +145,7 @@ P.S. - If you know other advisors or traders who'd benefit from this, feel free 
 **Goal:** 50-100 personal messages to advisors/traders Joe knows personally
 
 **Source List:**
-- Business cards (scan and digitize if needed)
+- Business cards (scan and digitise if needed)
 - Phone contacts
 - LinkedIn connections (filter for commodity/cotton/agriculture)
 - Conference contacts
@@ -158,7 +158,7 @@ P.S. - If you know other advisors or traders who'd benefit from this, feel free 
 3. **Email** (if you have it) - scalable, copy-paste friendly
 4. **SMS** (if appropriate) - immediate, high open rate
 
-**Message Template (Personalized - NOT copy-paste):**
+**Message Template (Personalised - NOT copy-paste):**
 
 ```
 Subject: Quick favor - I built something you might love
@@ -171,7 +171,7 @@ Quick favor - can I get your opinion on something?
 
 I've been building a tool that automates cotton market report analysis (COT, USDA, Cotton on Call, etc.) and delivers plain-language insights to WhatsApp the moment reports drop.
 
-Example: Friday 3:30 PM when COT hits, instead of spending 3 hours analyzing, you get:
+Example: Friday 3:30 PM when COT hits, instead of spending 3 hours analysing, you get:
 "Managed money short 62,004 contracts (up 8,000). Bearish signal."
 
 Saves about 10 hours/week for most advisors.
@@ -222,10 +222,10 @@ Background: Cotton field or advisor at desk (Friday evening, tired)
 
 **Pain Section (The Friday Problem):**
 ```
-Headline: Stop Spending Every Friday Analyzing Reports
+Headline: Stop Spending Every Friday Analysing Reports
 
-✓ Thursday 11 AM: USDA Export Sales drops → 2-3 hours analyzing
-✓ Friday 3:30 PM: CFTC COT Report drops → 2-3 hours analyzing
+✓ Thursday 11 AM: USDA Export Sales drops → 2-3 hours analysing
+✓ Friday 3:30 PM: CFTC COT Report drops → 2-3 hours analysing
 ✓ Friday evening: Writing client summaries → 2 hours
 ✓ Weekend: Catching up on Crop Progress, Cotton on Call → 2-3 hours
 
@@ -251,7 +251,7 @@ Total: 6 minutes per week. Macrovesta automates the rest.
 1. We Pull the Reports
    The moment USDA, CFTC, Cotton on Call, or Crop Progress reports drop, we grab them.
 
-2. AI Analyzes the Data
+2. AI Analyses the Data
    Trained on 10+ years of Earlam & Partners consultancy expertise, our AI interprets the numbers.
 
 3. You Get Plain-Language Insights
@@ -264,7 +264,7 @@ Forward to clients. Make decisions. Get your Friday back.
 ```
 Trusted by Commodity Advisors Across 14 Countries
 
-"Very appealing, well organized, easy to use but most of all I appreciate the educational part of it, how you explain, in simple words and with examples, what is needed to truly understand the cotton market."
+"Very appealing, well organised, easy to use but most of all I appreciate the educational part of it, how you explain, in simple words and with examples, what is needed to truly understand the cotton market."
 — Cotton Market Advisor, Greece
 
 Backed by 10+ Years of World-Class Consultancy
@@ -315,19 +315,19 @@ No credit card required. Cancel anytime.
 
 **Demo Slot Settings:**
 - **Duration:** 15 minutes (keep it short, respect their time)
-- **Availability:** Tuesday-Thursday 10 AM-4 PM UK time (avoid Fridays - they're analyzing reports!)
+- **Availability:** Tuesday-Thursday 10 AM-4 PM UK time (avoid Fridays - they're analysing reports!)
 - **Buffer:** 15 minutes between slots
-- **Confirmation Email:** "Looking forward to showing you how to automate your Friday workflow. If you can, have last Friday's COT report handy - we'll walk through how Macrovesta would have analyzed it for you."
+- **Confirmation Email:** "Looking forward to showing you how to automate your Friday workflow. If you can, have last Friday's COT report handy - we'll walk through how Macrovesta would have analysed it for you."
 
 **Demo Script (15 Minutes):**
 ```
 Min 0-2: "Tell me about your current Friday workflow"
    → Let them vent about pain (builds urgency)
-   → Note specific reports they analyze
+   → Note specific reports they analyse
 
 Min 2-5: "Let me show you what happened last Friday"
    → Pull up actual COT report from last Friday
-   → Show how they'd normally analyze it (manual process)
+   → Show how they'd normally analyse it (manual process)
    → Show Macrovesta alert they would have received
 
 Min 5-8: "Here's how it works for all your reports"
@@ -358,13 +358,13 @@ Min 12-15: "Here's what happens next"
 2. Email
 3. Phone number (for WhatsApp)
 4. Company name
-5. "What reports do you currently analyze?" (COT, USDA Export Sales, Cotton on Call, Crop Progress, Other)
+5. "What reports do you currently analyse?" (COT, USDA Export Sales, Cotton on Call, Crop Progress, Other)
 6. "How many hours per week do you spend on report analysis?" (2-5, 5-10, 10-15, 15+)
 7. "What's your biggest challenge with current process?" (Open text)
 
 **Why We Ask:**
 - Qualification (are they the right persona?)
-- Personalization (send relevant reports only)
+- Personalisation (send relevant reports only)
 - Sales intel (use in follow-up calls)
 
 **Post-Signup:**
@@ -399,7 +399,7 @@ Hope you're doing well! [Personal connection reference]
 
 Quick favor: I've built a new tool for cotton advisors (Macrovesta) that automates the Friday report analysis grind - turns 10 hours of COT/USDA analysis into 30-second WhatsApp alerts.
 
-It's getting great early feedback from advisors who are sick of spending their weekends analyzing reports.
+It's getting great early feedback from advisors who are sick of spending their weekends analysing reports.
 
 Would you be willing to share this with your network / post about it / mention it in your next newsletter?
 
@@ -447,7 +447,7 @@ P.S. - If this takes off, I'd love to have you as an advisor to the company. You
 Title: "The Hidden Cost of Manual Report Analysis:
        Why Cotton Advisors Are Burning Out on Fridays"
 
-Hook: Most cotton advisors spend 8-10 hours per week analyzing government reports.
+Hook: Most cotton advisors spend 8-10 hours per week analysing government reports.
       That's 480 hours per year - 12 full workweeks - doing work that could be automated.
 
 Body:
@@ -485,7 +485,7 @@ Hi [Name],
 
 Glad you're enjoying Macrovesta! Quick question:
 
-Do you know any other advisors or traders who spend too much time analyzing reports?
+Do you know any other advisors or traders who spend too much time analysing reports?
 
 If you refer someone and they become a paying customer, I'll give you:
 - 1 month free (per referral)
@@ -524,7 +524,7 @@ Joe
 ```
 "How to Read CFTC COT Reports in 5 Minutes (Not 3 Hours)
 
-Most cotton advisors I talk to spend 2-3 hours every Friday analyzing COT data.
+Most cotton advisors I talk to spend 2-3 hours every Friday analysing COT data.
 
 Here's the shortcut I use:
 
@@ -545,7 +545,7 @@ What are you seeing in the market?
 ```
 "Building Macrovesta: Why I automated my Friday workflow
 
-For 20+ years, I've spent every Friday evening analyzing COT reports.
+For 20+ years, I've spent every Friday evening analysing COT reports.
 
 3 hours. Every. Single. Week.
 
@@ -562,7 +562,7 @@ Just launched free trials this week. DMs are open if you want to try it.
 ```
 "Cotton Market Update: What This Week's COT Report Tells Us
 
-Just analyzed this week's CFTC COT data. Here's what stands out:
+Just analysed this week's CFTC COT data. Here's what stands out:
 
 📊 Managed money short 62,004 contracts (up 8,000 from last week)
 📈 Bearish positioning at 3-month high
@@ -691,7 +691,7 @@ Hi [Editor],
 
 I've been talking to dozens of cotton advisors over the past month, and I keep hearing the same complaint:
 
-"I spend every Friday analyzing USDA and COT reports instead of spending time with my family."
+"I spend every Friday analysing USDA and COT reports instead of spending time with my family."
 
 I'd love to write a piece for [Publication] about:
 - Why commodity advisors are drowning in data
@@ -794,7 +794,7 @@ Keywords:
 Headline 1: Automate Cotton Report Analysis
 Headline 2: Turn 10-Hour Fridays Into 30 Seconds
 Headline 3: £150/Month vs Bloomberg's £24K/Year
-Description: Stop manually analyzing USDA, COT, and Cotton on Call reports. Get WhatsApp alerts with plain-language insights. 14-day free trial.
+Description: Stop manually analysing USDA, COT, and Cotton on Call reports. Get WhatsApp alerts with plain-language insights. 14-day free trial.
 CTA: Book Demo | Start Free Trial
 ```
 
@@ -817,7 +817,7 @@ CTA: See How It Works | Free Trial
 
 **Landing Page:** macrovesta.ai/advisors (from Phase 1)
 
-**Bid Strategy:** Maximize Conversions (let Google optimize)
+**Bid Strategy:** Maximize Conversions (let Google optimise)
 
 **Expected Performance:**
 - CTR: 3-5%
@@ -851,11 +851,11 @@ Image: Split screen
   Left: Advisor at desk, stressed, Friday evening, pile of reports
   Right: Same advisor, relaxed, phone showing WhatsApp alert, "30 seconds saved"
 
-Headline: "Stop Spending Fridays Analyzing Reports"
+Headline: "Stop Spending Fridays Analysing Reports"
 
 Body:
 Every Friday at 3:30 PM, the COT report drops.
-You spend the next 3 hours analyzing it.
+You spend the next 3 hours analysing it.
 Your weekend starts late. Again.
 
 Macrovesta automates this.
@@ -870,7 +870,7 @@ CTA: "See How It Works"
 
 **Landing Page:** macrovesta.ai/advisors
 
-**Bid Strategy:** Start with Manual Bidding (£3-5 per click), then optimize
+**Bid Strategy:** Start with Manual Bidding (£3-5 per click), then optimise
 
 **Expected Performance:**
 - CTR: 1-2% (LinkedIn average for B2B)
@@ -896,7 +896,7 @@ CTA: "See How It Works"
 - Word count: 2,000-2,500
 - SEO keywords: cotton market analysis, commodity report analysis, advisor productivity
 - Outline:
-  - Intro: "If you're spending 8-10 hours/week analyzing reports, here's what it's costing you"
+  - Intro: "If you're spending 8-10 hours/week analysing reports, here's what it's costing you"
   - Section 1: Time cost (10 hrs/wk × 52 weeks × £50/hr = £26,000/year)
   - Section 2: Opportunity cost (could serve 2-3 more clients instead)
   - Section 3: Quality of life cost (weekends, family time)
@@ -976,7 +976,7 @@ CTA: "See How It Works"
 - Email to trial users and customers
 
 **SEO Strategy:**
-- Optimize for long-tail keywords (less competition)
+- Optimise for long-tail keywords (less competition)
 - Internal linking (blog posts link to landing pages)
 - Backlinks (guest posts on industry sites link back)
 
@@ -999,7 +999,7 @@ CTA: "See How It Works"
 **Content:**
 ```
 Page 1: Introduction
-"Are you spending more time analyzing data than advising clients? This audit will show you exactly where your time goes - and where you can get it back."
+"Are you spending more time analysing data than advising clients? This audit will show you exactly where your time goes - and where you can get it back."
 
 Page 2-3: Time Tracking Worksheet
 - Thursday: USDA Export Sales analysis = ___ hours
@@ -1014,9 +1014,9 @@ Page 4: Cost Calculator
 - "This is how much manual analysis costs you per year"
 
 Page 5: Automation Checklist
-✓ Which reports do you analyze manually? (identify automation opportunities)
+✓ Which reports do you analyse manually? (identify automation opportunities)
 ✓ Which analyses could be templated? (standardize workflow)
-✓ Which insights do clients need most? (prioritize value)
+✓ Which insights do clients need most? (prioritise value)
 
 Page 6: Next Steps
 "If you're spending 8+ hours/week on report analysis, Macrovesta can help. We automate COT, USDA, Cotton on Call, and Crop Progress - turning 10 hours into 30 seconds. Book a demo: [link]"
@@ -1083,7 +1083,7 @@ About Macrovesta
 **Content:**
 ```
 Input Fields:
-1. How many hours/week do you spend analyzing reports? [slider: 0-20]
+1. How many hours/week do you spend analysing reports? [slider: 0-20]
 2. What's your hourly rate? [£30 / £50 / £75 / £100+]
 3. What tools do you currently use?
    ☐ Bloomberg (£24,000/year)
@@ -1126,7 +1126,7 @@ Hi [Name],
 
 Here's your [Friday Workflow Audit / 2026 Cotton Outlook / ROI Calculator results].
 
-[Personalized insight based on their download]
+[Personalised insight based on their download]
 
 Quick question: What surprised you most about [their specific result]?
 
@@ -1168,7 +1168,7 @@ Subject: Last email about Macrovesta (for now)
 
 I don't want to keep filling your inbox, so this is my last email about Macrovesta.
 
-If you're still spending Fridays analyzing reports manually, we can help. If not, no worries.
+If you're still spending Fridays analysing reports manually, we can help. If not, no worries.
 
 Either way, here's a free trial link if you want to test it yourself: [link]
 
@@ -1210,7 +1210,7 @@ P.S. - Here's a recent COT analysis we generated. Might be useful: [PDF attachme
 
 ---
 
-# PHASE 3: OPTIMIZE (Month 4+)
+# PHASE 3: OPTIMISE (Month 4+)
 **Goal:** Scale to £15,000-30,000 MRR, expand to traders, build partnerships
 **Budget:** £3,000-5,000/month
 **Success Metric:** 100-200 paying customers, <£200 CAC, expand TAM
@@ -1219,16 +1219,16 @@ P.S. - Here's a recent COT analysis we generated. Might be useful: [PDF attachme
 
 ## Phase 3 Overview: Advanced Funnels + Market Expansion
 
-**Core Strategy:** Phase 2 built a predictable acquisition engine. Now optimize conversions, test advanced funnels, and expand to traders.
+**Core Strategy:** Phase 2 built a predictable acquisition engine. Now optimise conversions, test advanced funnels, and expand to traders.
 
 ---
 
-## Optimization 1: Quiz Funnel (Qualify Leads Better)
+## Optimisation 1: Quiz Funnel (Qualify Leads Better)
 
 **Why Add Quiz Now:**
 - You have data on ideal customer profile
 - You know which advisors convert best
-- You can pre-qualify and personalize demo
+- You can pre-qualify and personalise demo
 
 **Quiz Landing Page:** macrovesta.ai/quiz
 
@@ -1242,13 +1242,13 @@ P.S. - Here's a recent COT analysis we generated. Might be useful: [PDF attachme
 - Large ag business / farm
 - Other
 
-**Q2: How many hours per week do you spend analyzing market reports?**
+**Q2: How many hours per week do you spend analysing market reports?**
 - 0-2 hours
 - 2-5 hours
 - 5-10 hours
 - 10+ hours
 
-**Q3: Which reports do you currently analyze?**
+**Q3: Which reports do you currently analyse?**
 - CFTC COT
 - USDA Export Sales
 - Cotton on Call
@@ -1275,14 +1275,14 @@ P.S. - Here's a recent COT analysis we generated. Might be useful: [PDF attachme
 - Better work-life balance
 - Grow my business in other ways
 
-**Results Page (Personalized):**
+**Results Page (Personalised):**
 
 **IF: Advisor + 10+ hours/week + Manual only:**
 ```
 Your Result: "You're the Perfect Fit for Macrovesta"
 
 Based on your answers:
-- You're spending 10+ hours/week analyzing reports
+- You're spending 10+ hours/week analysing reports
 - You're doing this manually (no automation)
 - You're an independent advisor (our core customer)
 
@@ -1304,7 +1304,7 @@ Your Result: "You Might Benefit from Macrovesta (As a Complement to Bloomberg)"
 
 Based on your answers:
 - You already use Bloomberg (great for real-time data)
-- But you still spend 2-5 hours/week analyzing reports
+- But you still spend 2-5 hours/week analysing reports
 
 Macrovesta could complement Bloomberg by automating government report interpretation.
 
@@ -1334,7 +1334,7 @@ In the meantime, here's a free resource you might find helpful:
 
 **Benefits of Quiz Funnel:**
 - Pre-qualifies leads (waste less time on bad-fit demos)
-- Personalizes messaging (higher conversion)
+- Personalises messaging (higher conversion)
 - Captures email even if not ready (nurture sequence)
 - Provides user research data (what tools do advisors use?)
 
@@ -1344,7 +1344,7 @@ In the meantime, here's a free resource you might find helpful:
 
 ---
 
-## Optimization 2: Webinar Funnel
+## Optimisation 2: Webinar Funnel
 
 **Goal:** Educate at scale, build authority, convert multiple prospects at once
 
@@ -1360,7 +1360,7 @@ In the meantime, here's a free resource you might find helpful:
 
 **Minute 0-5: The Friday Problem (Build Pain)**
 ```
-- Poll audience: "How many hours did you spend analyzing reports last Friday?"
+- Poll audience: "How many hours did you spend analysing reports last Friday?"
 - Share results: "Most advisors say 8-10 hours. Every. Week."
 - Story: "I talked to [Advisor Name] who was spending his Friday nights writing client summaries instead of having dinner with his family."
 ```
@@ -1555,7 +1555,7 @@ Proposal: White-label partnership where AgFlow customers get Macrovesta analysis
 
 **Pitch:**
 ```
-"Your members are commodity advisors who spend 10+ hours/week analyzing reports. We built a tool to automate that.
+"Your members are commodity advisors who spend 10+ hours/week analysing reports. We built a tool to automate that.
 
 Proposal: We sponsor your next conference, offer members exclusive discount, and provide educational webinar on modern advisory tools."
 ```
@@ -1605,7 +1605,7 @@ Proposal: Cross-promotion. We recommend you to our customers, you recommend us t
 
 ### Phase 1: Organic, Relationship-Driven
 - LinkedIn posts (3x/week) - educational, value demonstration
-- Warm outreach emails (personalized, not automated)
+- Warm outreach emails (personalised, not automated)
 - Guest articles in industry publications
 - Podcast appearances
 - 1-on-1 demos (storytelling, high-touch)
@@ -1618,8 +1618,8 @@ Proposal: Cross-promotion. We recommend you to our customers, you recommend us t
 - Email nurture sequences (automated)
 - Case studies (social proof)
 
-### Phase 3: Advanced, Optimized
-- Quiz funnels (personalized journeys)
+### Phase 3: Advanced, Optimised
+- Quiz funnels (personalised journeys)
 - Webinars (educate at scale)
 - Video content (YouTube, LinkedIn Video)
 - Partnerships (co-marketing)
@@ -1634,7 +1634,7 @@ Proposal: Cross-promotion. We recommend you to our customers, you recommend us t
 |---------|---------|---------|---------|
 | **Joe's Network** | ✅ Primary | ➡️ Referrals | ➡️ Advocacy |
 | **LinkedIn Organic** | ✅ Primary | ➡️ Ongoing | ➡️ Thought Leadership |
-| **Google Ads** | ❌ Not yet | ✅ Primary | ➡️ Optimized |
+| **Google Ads** | ❌ Not yet | ✅ Primary | ➡️ Optimised |
 | **LinkedIn Ads** | ❌ Not yet | ✅ Primary | ➡️ Retargeting |
 | **SEO/Content** | ⏳ Starting | ✅ Primary | ➡️ Authority |
 | **Webinars** | ❌ Not yet | ⏳ Test 1-2 | ✅ Primary |
@@ -1683,9 +1683,9 @@ Why: Capture more value from power users, expand TAM
 - **Structure:** Problem → Lead magnet → Email nurture → Demo booking
 - **Why:** Capture emails from researchers, nurture over time
 
-### Phase 3: Quiz Funnel (Personalized)
+### Phase 3: Quiz Funnel (Personalised)
 - **URL:** macrovesta.ai/quiz
-- **Structure:** Quiz → Personalized results → Tailored demo offer
+- **Structure:** Quiz → Personalised results → Tailored demo offer
 - **Why:** Qualify leads better, increase conversion, reduce wasted demos
 
 **Decision Tree:**
@@ -1697,7 +1697,7 @@ Visitor arrives →
     → Send to macrovesta.ai/advisors (direct booking)
 
   IF: Medium intent (searched "commodity advisor tools")
-    → Send to macrovesta.ai/quiz (qualify + personalize)
+    → Send to macrovesta.ai/quiz (qualify + personalise)
 
   IF: Low intent (organic traffic, clicked LinkedIn post)
     → Send to macrovesta.ai/blog/friday-problem (educate first)

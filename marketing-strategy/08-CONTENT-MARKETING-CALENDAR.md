@@ -38,8 +38,8 @@ After 20+ years in cotton commodities, I've finally solved the Friday problem.
 
 You know the one:
 
-→ Thursday 11 AM: USDA Export Sales drops. Spend 2 hours analyzing.
-→ Friday 3:30 PM: COT report drops. Spend 3 hours analyzing.
+→ Thursday 11 AM: USDA Export Sales drops. Spend 2 hours analysing.
+→ Friday 3:30 PM: COT report drops. Spend 3 hours analysing.
 → Friday evening: Write client summaries. Spend 2 hours.
 → Weekend: Catch up on Crop Progress. Another 2 hours.
 
@@ -68,7 +68,7 @@ Just opened free trials to the industry. Comment "FRIDAY" if you want to test it
 ```
 How to Read CFTC COT Reports in 5 Minutes (Not 3 Hours)
 
-Most cotton advisors spend 2-3 hours every Friday analyzing COT data.
+Most cotton advisors spend 2-3 hours every Friday analysing COT data.
 
 Here's the shortcut I use:
 
@@ -102,7 +102,7 @@ What's your Friday COT workflow? Drop it in comments.
 ```
 🚨 Cotton Market Alert: This Week's COT Report
 
-Just analyzed this week's CFTC COT data (dropped 30 minutes ago).
+Just analysed this week's CFTC COT data (dropped 30 minutes ago).
 
 Here's what matters:
 
@@ -119,7 +119,7 @@ What's your take on cotton over the next 30 days?
 
 #CottonMarket #USDA #Commodities
 ```
-**Goal:** Show product in action, drive FOMO (they're still analyzing manually)
+**Goal:** Show product in action, drive FOMO (they're still analysing manually)
 
 ---
 
@@ -273,7 +273,7 @@ Joe Earlam here from Earlam & Partners / Liverpool Cotton Brokers.
 
 I've been in cotton commodities for 20+ years, and I'm seeing a troubling trend: advisor burnout.
 
-The culprit? Manual report analysis. Most advisors spend 8-10 hours/week (480 hours/year) manually analyzing USDA, CFTC, and crop reports.
+The culprit? Manual report analysis. Most advisors spend 8-10 hours/week (480 hours/year) manually analysing USDA, CFTC, and crop reports.
 
 I'd love to write a guest article for [Publication] on this topic:
 
@@ -326,7 +326,7 @@ Time Waster #2: Spreadsheet Maintenance (2-3 hours/week)
 
 Time Waster #3: Writing Client Summaries from Scratch (2-3 hours/week)
 - Problem: Re-explaining same concepts every week
-- Solution: Template your summaries, personalize key insights only
+- Solution: Template your summaries, personalise key insights only
 
 Time Waster #4: Chasing Down Data Sources (1-2 hours/week)
 - Problem: Bookmark spaghetti (USDA site, CFTC site, ICE, etc.)
@@ -391,7 +391,7 @@ How One Cotton Advisor Got His Fridays Back
 
 Before Macrovesta:
 ⏰ Friday 3:30 PM: COT drops
-⏰ Friday 3:31 PM - 6:30 PM: Analyzing data
+⏰ Friday 3:31 PM - 6:30 PM: Analysing data
 ⏰ Friday 7:00 PM: Writing client summaries
 ⏰ Friday 8:30 PM: Finally emails clients
 
@@ -438,7 +438,7 @@ Section 2: What Bloomberg Doesn't Do
 
 Section 3: The Cotton Advisor Gap
 - Bloomberg gives you data
-- You still spend 3 hours analyzing COT reports
+- You still spend 3 hours analysing COT reports
 - You still manually interpret USDA Export Sales
 - Bloomberg = Tool. Not a solution.
 
@@ -480,7 +480,7 @@ I get asked this a lot: "What do you use?"
 Here's my actual stack:
 
 📊 SpreadCharts (£1,200/year)
-   → COT visualization, historical charts
+   → COT visualisation, historical charts
    → Great for seeing trends
 
 📱 Macrovesta (£1,800/year - yes, my own product)
@@ -513,7 +513,7 @@ What's your stack?
 
 I've never had a tool that actually saved me TIME.
 
-Most tools just give me MORE data to analyze.
+Most tools just give me MORE data to analyse.
 
 Macrovesta is different. It does the analysis FOR me.
 
@@ -542,7 +542,7 @@ DMs open if you want to try it this week.
 
 **Blog Post #4 (Week 7): "The Commodity Advisor's Guide to AI and Automation"**
 
-**Blog Post #5 (Week 8): "How to Analyze USDA Export Sales in Under 5 Minutes"**
+**Blog Post #5 (Week 8): "How to Analyse USDA Export Sales in Under 5 Minutes"**
 
 **Email Campaigns:**
 - **Liverpool Cotton Brokers List:** Weekly market updates (Friday afternoon) with soft Macrovesta mentions
@@ -685,7 +685,7 @@ My prediction: 3-5 hours.
 
 That's 3-5 hours with family, hobbies, rest - gone.
 
-Now imagine: What if those reports were pre-analyzed for you?
+Now imagine: What if those reports were pre-analysed for you?
 
 WhatsApp alerts. Plain language. 30 seconds each.
 
@@ -758,7 +758,7 @@ Comment with your weekend hours. Let's see who wins (loses?) the "most time spen
 
 ### Blog SEO Strategy
 
-**On-Page Optimization:**
+**On-Page Optimisation:**
 - Target keyword in H1, first 100 words, URL slug
 - Internal links to other blog posts + product pages
 - External links to USDA, CFTC sources (credibility)
@@ -891,7 +891,7 @@ Example: [Specific example from last week]
 
 ### LinkedIn Post Template #2: Product Demonstration
 ```
-[Market Update Hook: "Just analyzed this week's COT data"]
+[Market Update Hook: "Just analysed this week's COT data"]
 
 Here's what matters:
 

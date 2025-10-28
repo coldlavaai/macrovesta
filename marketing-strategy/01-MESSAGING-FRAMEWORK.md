@@ -20,7 +20,7 @@ This document defines Macrovesta's market positioning, target personas, and core
 Free Tools              Macrovesta              Enterprise Platforms
 ├─────────────────────────┼─────────────────────────┤
 │ $0/year                 │ £1,800/year            │ £12,000-£24,000/year
-│ Basic visualization     │ Full automation        │ Raw data + tools
+│ Basic visualisation     │ Full automation        │ Raw data + tools
 │ DIY retail traders      │ Small advisors/brokers │ Large trading firms
 │ Limited features        │ Complete workflow      │ Overwhelming complexity
 │ No support              │ Turnkey solution       │ Requires training team
@@ -30,9 +30,9 @@ Free Tools              Macrovesta              Enterprise Platforms
 
 **For:** Independent commodity advisors and small-to-mid-size cotton trading firms (1-20 employees)
 
-**Who:** Need to analyze government reports (USDA, CFTC COT, Cotton on Call, Crop Progress) but can't afford enterprise platforms or justify the time for manual analysis
+**Who:** Need to analyse government reports (USDA, CFTC COT, Cotton on Call, Crop Progress) but can't afford enterprise platforms or justify the time for manual analysis
 
-**Macrovesta is:** An AI-powered market intelligence platform that automates report interpretation and delivers actionable insights via WhatsApp
+**Macrovesta is:** An AI-powered market intelligence platform that automatises report interpretation and delivers actionable insights via WhatsApp
 
 **That:** Turns 10 hours of Friday report analysis into a 30-second WhatsApp alert, saving advisors time while providing professional-grade analysis they can share with clients
 
@@ -50,24 +50,24 @@ Free Tools              Macrovesta              Enterprise Platforms
 
 ### The 30-Second Pitch
 
-"Macrovesta automates government report analysis for commodity advisors. Instead of spending every Friday manually analyzing USDA, COT, and Cotton on Call reports, you get instant WhatsApp alerts with plain-language analysis: 'Managed money is short 62,004 contracts - they're betting cotton prices will fall.' Share it with clients, make better trading decisions, reclaim your weekends. £150/month vs £24,000/year for Bloomberg."
+"Macrovesta automates government report analysis for commodity advisors. Instead of spending every Friday manually analysing USDA, COT, and Cotton on Call reports, you get instant WhatsApp alerts with plain-language analysis: 'Managed money is short 62,004 contracts - they're betting cotton prices will fall.' Share it with clients, make better trading decisions, reclaim your weekends. £150/month vs £24,000/year for Bloomberg."
 
 ### The 2-Minute Pitch
 
-"Are you spending 8-10 hours every week analyzing commodity market reports? USDA Export Sales on Thursdays, CFTC COT on Fridays, Cotton on Call, Crop Progress - it's exhausting. And your clients expect you to synthesize all this data into actionable advice.
+"Are you spending 8-10 hours every week analysing commodity market reports? USDA Export Sales on Thursdays, CFTC COT on Fridays, Cotton on Call, Crop Progress - it's exhausting. And your clients expect you to synthesize all this data into actionable advice.
 
 Bloomberg and Refinitiv give you all the raw data, but they still make you do the analysis manually. And they cost £12,000 to £24,000 per year. Free tools only cover one or two reports and require you to interpret everything yourself.
 
 That's why we built Macrovesta. We automate the entire workflow:
 
 1. We pull all the government reports the moment they're released
-2. Our AI analyzes the data and writes plain-language interpretations
+2. Our AI analyses the data and writes plain-language interpretations
 3. You get a WhatsApp alert: 'Managed money increased their short position by 8,000 contracts - bearish signal for cotton'
 4. Forward it to your clients, post it in your group chats, use it for trading decisions
 
-You transform from spending your Friday night analyzing reports to getting insights in 30 seconds. Your clients think you're on top of every market move. And you pay £150/month instead of £2,000/month.
+You transform from spending your Friday night analysing reports to getting insights in 30 seconds. Your clients think you're on top of every market move. And you pay £150/month instead of £2,000/month.
 
-Over the last decade, our team at Earlam & Partners delivered commodity consultancy to some of the world's largest farms, mills, and retailers. Now we're making that same expertise available to organizations of all sizes through software."
+Over the last decade, our team at Earlam & Partners delivered commodity consultancy to some of the world's largest farms, mills, and retailers. Now we're making that same expertise available to organisations of all sizes through software."
 
 ---
 
@@ -84,20 +84,20 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 
 **Psychographics:**
 - Values expertise and reputation
-- Time-strapped (nights/weekends analyzing reports)
-- Relationship-driven (clients expect personalized service)
+- Time-strapped (nights/weekends analysing reports)
+- Relationship-driven (clients expect personalised service)
 - Tech-adopter if it saves time (not early adopter, needs proven ROI)
 - Pride in quality analysis but frustrated by repetitive work
 
 **Daily Workflow:**
 - **Monday-Wednesday:** Client calls, market monitoring, trade execution
-- **Thursday 11 AM:** USDA Export Sales Report released → 2-3 hours analyzing
-- **Friday 3:30 PM:** CFTC COT Report released → 2-3 hours analyzing
+- **Thursday 11 AM:** USDA Export Sales Report released → 2-3 hours analysing
+- **Friday 3:30 PM:** CFTC COT Report released → 2-3 hours analysing
 - **Friday evening:** Writing client emails/WhatsApp messages with insights
 - **Weekend:** Often checking news, weather, responding to client questions
 
 **Pain Points:**
-1. **"I spend my Friday afternoons analyzing the same reports in the same format every single week"**
+1. **"I spend my Friday afternoons analysing the same reports in the same format every single week"**
    - Repetitive, time-consuming manual work
    - Cutting into personal time and weekends
 
@@ -139,7 +139,7 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 
 **Messaging That Resonates:**
 - "Automate your Friday workflow"
-- "Stop spending weekends analyzing reports"
+- "Stop spending weekends analysing reports"
 - "Professional analysis your clients will love - without the manual work"
 - "£150/month vs £24,000/year for Bloomberg"
 - "Turn your 10-hour Friday into a 30-second WhatsApp alert"
@@ -227,7 +227,7 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 
 **They Say:** "We have the most comprehensive commodity data in the world"
 
-**We Say:** "Bloomberg gives you all the data but still makes you analyze it manually. We automate the analysis and deliver insights to WhatsApp. And we cost 13x less."
+**We Say:** "Bloomberg gives you all the data but still makes you analyse it manually. We automate the analysis and deliver insights to WhatsApp. And we cost 13x less."
 
 **Proof Points:**
 - Bloomberg: £24,000/year | Macrovesta: £1,800/year
@@ -265,13 +265,13 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 
 **Proof Points:**
 - SpreadCharts: COT + Seasonality only | Macrovesta: COT + USDA + Cotton on Call + Crop Progress
-- SpreadCharts: Charts and visualizations | Macrovesta: Written analysis + WhatsApp delivery
+- SpreadCharts: Charts and visualisations | Macrovesta: Written analysis + WhatsApp delivery
 - SpreadCharts: For active traders | Macrovesta: For advisors managing clients
 - SpreadCharts: £1,200/year | Macrovesta: £1,800/year (worth £600 more for complete coverage)
 
 **When to Use:** When prospect says "I already use SpreadCharts"
 
-**Response:** "SpreadCharts is great for COT data - we actually complement them well. They give you excellent COT visualization. We give you automated interpretation of COT plus all the other weekly reports (USDA Export Sales, Cotton on Call, Crop Progress) delivered to WhatsApp. Most advisors find they need both types of data, and we cover the gaps SpreadCharts doesn't address."
+**Response:** "SpreadCharts is great for COT data - we actually complement them well. They give you excellent COT visualisation. We give you automated interpretation of COT plus all the other weekly reports (USDA Export Sales, Cotton on Call, Crop Progress) delivered to WhatsApp. Most advisors find they need both types of data, and we cover the gaps SpreadCharts doesn't address."
 
 ---
 
@@ -289,7 +289,7 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 
 **When to Use:** When prospect says "Why can't I just use free COT sites?"
 
-**Response:** "Free tools are perfect for retail traders who enjoy analyzing data themselves. But as an advisor with clients expecting professional insights, you need more. You need automated analysis you can trust, multi-report integration, and reliable delivery. The time you save in one Friday pays for a month of Macrovesta."
+**Response:** "Free tools are perfect for retail traders who enjoy analysing data themselves. But as an advisor with clients expecting professional insights, you need more. You need automated analysis you can trust, multi-report integration, and reliable delivery. The time you save in one Friday pays for a month of Macrovesta."
 
 ---
 
@@ -318,7 +318,7 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 **Headline:** "Turn Your 10-Hour Friday Into a 30-Second WhatsApp Alert"
 
 **Supporting Messages:**
-- "Stop spending weekends analyzing reports"
+- "Stop spending weekends analysing reports"
 - "Automate 80% of your advisory workflow"
 - "Get your Fridays back"
 - "From 3 hours of analysis to 30 seconds of review"
@@ -346,7 +346,7 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 **Proof/Evidence:**
 - Earlam & Partners: Consulted for largest farms, mills, retailers globally
 - Plain-language analysis clients can understand
-- Testimonial: "Educational, well-organized, explains in simple words what's needed to truly understand the cotton market"
+- Testimonial: "Educational, well-organised, explains in simple words what's needed to truly understand the cotton market"
 - Trusted across 14 countries, 5 continents
 
 **When to Lead With:** Advisors focused on client service, reputation-conscious traders, anyone mentioning "professional image"
@@ -358,7 +358,7 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 **Headline:** "Never Miss a Market-Moving Signal Again"
 
 **Supporting Messages:**
-- "While you're manually analyzing Friday's COT report, we've already alerted our users"
+- "While you're manually analysing Friday's COT report, we've already alerted our users"
 - "Big traders have Bloomberg analysts - you have Macrovesta"
 - "Stop competing with one hand tied behind your back"
 - "The cotton market waits for no one"
@@ -421,10 +421,10 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 **Listen For:** "I can't afford £150/month", "That's a lot for a small shop", "I'll stick with free tools"
 
 **Response (Time ROI):**
-"I understand - £150/month is an investment. Let me ask: how many hours do you spend each week analyzing USDA and COT reports? Most advisors say 8-10 hours. If you value your time at even £30/hour, that's £240-£300 in time spent every week. Macrovesta costs £150/month and gives you those 10 hours back. So you're actually saving £600-£900/month in time value. Does that change the math?"
+"I understand - £150/month is an investment. Let me ask: how many hours do you spend each week analysing USDA and COT reports? Most advisors say 8-10 hours. If you value your time at even £30/hour, that's £240-£300 in time spent every week. Macrovesta costs £150/month and gives you those 10 hours back. So you're actually saving £600-£900/month in time value. Does that change the math?"
 
 **Response (Competitive):**
-"Compared to what? Bloomberg is £24,000/year - we're £1,800. If you're currently using free tools and spending your weekends analyzing reports, the question isn't whether Macrovesta costs too much - it's whether your time is worth £150/month to get back."
+"Compared to what? Bloomberg is £24,000/year - we're £1,800. If you're currently using free tools and spending your weekends analysing reports, the question isn't whether Macrovesta costs too much - it's whether your time is worth £150/month to get back."
 
 **Response (Trial Offer):**
 "That's fair. How about this: try it free for 30 days. If it doesn't save you at least 5-10 hours in the first month, cancel anytime. No commitment. Fair?"
@@ -436,10 +436,10 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 **Listen For:** Mentions of existing tools
 
 **Response (Bloomberg/Refinitiv):**
-"That's great - [Tool] is excellent for [what they do well]. But let me ask: after you get data from [Tool], do you still spend time manually analyzing government reports to write summaries for clients? That's what we automate. Many advisors use both: [Their tool] for real-time data and execution, Macrovesta for automated report interpretation. We complement each other."
+"That's great - [Tool] is excellent for [what they do well]. But let me ask: after you get data from [Tool], do you still spend time manually analysing government reports to write summaries for clients? That's what we automate. Many advisors use both: [Their tool] for real-time data and execution, Macrovesta for automated report interpretation. We complement each other."
 
 **Response (SpreadCharts):**
-"SpreadCharts is excellent for COT visualization - but does it cover USDA Export Sales, Cotton on Call, or Crop Progress reports? Does it write the analysis for you? We fill the gaps SpreadCharts doesn't address. Think of us as complementary, not competitive."
+"SpreadCharts is excellent for COT visualisation - but does it cover USDA Export Sales, Cotton on Call, or Crop Progress reports? Does it write the analysis for you? We fill the gaps SpreadCharts doesn't address. Think of us as complementary, not competitive."
 
 ---
 
@@ -451,7 +451,7 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 "Absolutely - your expertise is what clients pay for, and we're not replacing that. Macrovesta doesn't make trading decisions for you. What we do is handle the tedious data gathering and initial interpretation, so you can spend more time on strategic analysis and client relationships. You still review everything and add your unique insights - you're just not spending 3 hours copy-pasting data from PDFs anymore."
 
 **Response (Augmentation Not Replacement):**
-"Think of Macrovesta as your research assistant, not your replacement. We pull the reports, analyze the data, write the initial summary. You review it (takes 30 seconds), add your market perspective (takes 5 minutes), and send to clients. You're still the expert - you're just more efficient."
+"Think of Macrovesta as your research assistant, not your replacement. We pull the reports, analyse the data, write the initial summary. You review it (takes 30 seconds), add your market perspective (takes 5 minutes), and send to clients. You're still the expert - you're just more efficient."
 
 ---
 
@@ -511,7 +511,7 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 - Referrals from other advisors
 
 **Messaging:** Problem-focused
-- "Tired of spending every Friday analyzing cotton reports?"
+- "Tired of spending every Friday analysing cotton reports?"
 - "Stop drowning in USDA data"
 - "There's a better way than Bloomberg for small advisors"
 
@@ -625,7 +625,7 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 
 **Direct, Not Fluffy:**
 - We get to the point quickly (time-strapped audience)
-- Example: ✅ "Save 10 hours/week analyzing reports" | ❌ "Embark on a transformational journey to reimagine your commodity intelligence paradigm"
+- Example: ✅ "Save 10 hours/week analysing reports" | ❌ "Embark on a transformational journey to reimagine your commodity intelligence paradigm"
 
 ---
 
@@ -635,7 +635,7 @@ Over the last decade, our team at Earlam & Partners delivered commodity consulta
 - "Automate your Friday workflow. Enterprise commodity intelligence at small business prices."
 
 **Sales Emails:** Conversational, question-led, curiosity-driven
-- "Quick question: how much time does your team spend analyzing USDA reports each week?"
+- "Quick question: how much time does your team spend analysing USDA reports each week?"
 
 **Demo Presentations:** Educational, show-don't-tell, interactive
 - "Let me show you what happens when the COT report drops on Friday afternoon..."

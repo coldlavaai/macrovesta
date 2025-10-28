@@ -13,7 +13,7 @@
 3. Peer introduction (Mutual connection)
 
 ### INMAILS (LinkedIn Premium)
-4. Personalized pain point
+4. Personalised pain point
 5. Social proof heavy
 6. Direct demo offer
 
@@ -56,13 +56,13 @@ Hi [Name], I help cotton advisors cut report analysis time by 75%. Noticed you'r
 
 **Message:**
 ```
-Hi [Name], saw your recent post about [specific topic]. Quick question: how much time does your team spend analyzing COT reports each week? I'm researching automation tools for advisors and would love your perspective.
+Hi [Name], saw your recent post about [specific topic]. Quick question: how much time does your team spend analysing COT reports each week? I'm researching automation tools for advisors and would love your perspective.
 ```
 
 **Character Count:** 236/300
 
 **Why It Works:**
-- Personalized (references their post)
+- Personalised (references their post)
 - Disarms sales defense ("researching", not "selling")
 - Flattering (asking for their expertise)
 - Opens conversation naturally
@@ -75,7 +75,7 @@ Hi [Name], saw your recent post about [specific topic]. Quick question: how much
 
 **Message:**
 ```
-Hi [Name], I see we're both connected to [Mutual Connection]. I work with commodity advisors on automating market analysis. If you're spending Fridays analyzing reports, we should chat - I'd love to share what's helping advisors save 8-10 hours/week.
+Hi [Name], I see we're both connected to [Mutual Connection]. I work with commodity advisors on automating market analysis. If you're spending Fridays analysing reports, we should chat - I'd love to share what's helping advisors save 8-10 hours/week.
 ```
 
 **Character Count:** 280/300
@@ -90,7 +90,7 @@ Hi [Name], I see we're both connected to [Mutual Connection]. I work with commod
 
 # INMAILS (1,900 Characters Max)
 
-## INMAIL 1: Personalized Pain Point
+## INMAIL 1: Personalised Pain Point
 
 **Subject:** Quick question about your Friday workflow
 
@@ -100,13 +100,13 @@ Hi [Name],
 
 I came across your profile and saw you're a [Job Title] at [Company].
 
-Quick question: how much time does your team spend analyzing USDA and COT reports each week?
+Quick question: how much time does your team spend analysing USDA and COT reports each week?
 
 Most cotton advisors I talk to say 8-10 hours. At £50/hour, that's £20,000-26,000/year in time value.
 
 We built Macrovesta to solve this. It's an AI-powered platform that automates government report analysis and delivers plain-language insights to WhatsApp.
 
-Example: Friday at 3:30 PM when COT drops, instead of spending 3 hours manually analyzing, you get:
+Example: Friday at 3:30 PM when COT drops, instead of spending 3 hours manually analysing, you get:
 
 "Managed money short 62,004 contracts (up 8,000 from last week). Bearish positioning for cotton."
 
@@ -129,7 +129,7 @@ P.S. - Backed by 10+ years of Earlam & Partners consultancy expertise.
 **Character Count:** ~890/1,900
 
 **Why It Works:**
-- Personalized opening (job title, company)
+- Personalised opening (job title, company)
 - Quantifies pain (£20-26K/year)
 - Specific example (real COT data)
 - Price comparison (£150 vs £24K)
@@ -148,7 +148,7 @@ Hi [Name],
 
 You don't know me, but we work with cotton advisors who had the same problem you probably face:
 
-Spending every Friday analyzing COT, USDA, and Cotton on Call reports instead of actually advising clients.
+Spending every Friday analysing COT, USDA, and Cotton on Call reports instead of actually advising clients.
 
 David T., an independent cotton advisor in Texas, was spending 10 hours/week on this.
 
@@ -251,7 +251,7 @@ Hi [Name],
 
 Thanks for connecting! Saw your profile and noticed you work in [specific area - cotton markets/commodity trading/etc.].
 
-Quick question: do you currently analyze CFTC COT reports?
+Quick question: do you currently analyse CFTC COT reports?
 
 Most advisors spend 2-3 hours every Friday pulling data and figuring out what it means. Here's a shortcut I learned over 10 years in cotton markets:
 
@@ -267,7 +267,7 @@ Last Friday's example:
 
 **Translation:** Big speculators betting cotton falls. Bearish signal.
 
-That took me 5 minutes to analyze. Used to take 2 hours.
+That took me 5 minutes to analyse. Used to take 2 hours.
 
 Now imagine getting that delivered to WhatsApp in 30 seconds. That's what Macrovesta does.
 
@@ -303,7 +303,7 @@ Following up on my note about automating cotton report analysis.
 Curious: what's your current process for staying on top of USDA and COT reports?
 
 Most advisors I talk to are:
-A) Spending 8-10 hours/week manually analyzing
+A) Spending 8-10 hours/week manually analysing
 B) Subscribing to multiple expensive services (Bloomberg, etc.)
 C) Missing reports due to time constraints
 D) Some combination of the above
@@ -346,7 +346,7 @@ I don't want to keep filling your inbox, but I thought you might find this case 
 **David T. - Independent Cotton Advisor, Texas**
 
 Before Macrovesta:
-- 10 hours/week analyzing reports
+- 10 hours/week analysing reports
 - Friday evenings writing summaries
 - Time-maxed (couldn't take new clients)
 
@@ -529,7 +529,7 @@ Worth a read if you're following cotton futures: [Link]
 ```
 How to Read CFTC COT Reports Without Getting Overwhelmed
 
-Most cotton advisors I talk to spend 2-3 hours every Friday analyzing COT data.
+Most cotton advisors I talk to spend 2-3 hours every Friday analysing COT data.
 
 Here's the shortcut I use to cut that to 5 minutes:
 
@@ -622,7 +622,7 @@ DM me and I'll show you how 30 seconds replaces 3 hours.
 - **Follow-ups:** Wait 48-72 hours between messages
 - **InMails:** Max 5/day (expensive, use selectively)
 
-## Personalization:
+## Personalisation:
 - Always use first name
 - Reference their company/location
 - Mention mutual connections if applicable
@@ -657,9 +657,9 @@ Track which gets higher:
 
 ---
 
-# LINKEDIN PROFILE OPTIMIZATION (For Joe)
+# LINKEDIN PROFILE OPTIMISATION (For Joe)
 
-Before doing outreach, optimize Joe's profile:
+Before doing outreach, optimise Joe's profile:
 
 **Headline:**
 ```
@@ -688,7 +688,7 @@ After 10+ years delivering commodity consultancy at Earlam & Partners, I built M
 
 **Total Scripts:** 12+ ready-to-use messages
 **Character Counts:** All within LinkedIn limits
-**Personalization:** Variable placeholders throughout
+**Personalisation:** Variable placeholders throughout
 **A/B Testing:** Multiple variants provided
 
 ---

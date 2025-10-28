@@ -27,7 +27,7 @@ This document provides complete node-by-node specifications for 3 n8n workflows 
 - **SendGrid or Mailgun** (email delivery)
 - **Calendly** (demo booking webhook)
 - **Sanity CMS** (optional - for centralized lead data)
-- **OpenAI** (optional - for AI-personalized messages)
+- **OpenAI** (optional - for AI-personalised messages)
 
 ### Rate Limiting:
 - SMS: 1 message per minute (Twilio compliance)
@@ -157,7 +157,7 @@ Hi {{ $json.name }},
 
 I noticed you weren't able to make our demo earlier today at {{ $json.demo_time }}.
 
-No worries - I know Fridays get hectic (especially if you spent the afternoon analyzing COT reports 😊).
+No worries - I know Fridays get hectic (especially if you spent the afternoon analysing COT reports 😊).
 
 I recorded a quick 3-minute walkthrough showing exactly what we would have covered:
 
@@ -165,7 +165,7 @@ I recorded a quick 3-minute walkthrough showing exactly what we would have cover
 
 Key highlights:
 ✓ How Macrovesta turns 10 hours of Friday analysis into 30 seconds
-✓ Example: Last week's COT report analyzed in plain language
+✓ Example: Last week's COT report analysed in plain language
 ✓ How to forward alerts to clients (saves even more time)
 
 If this looks interesting, you can:
@@ -254,7 +254,7 @@ Hi {{ $json.name }},
 
 Following up on the demo you booked earlier this week.
 
-Quick question: how much time does your team currently spend analyzing USDA and COT reports each week?
+Quick question: how much time does your team currently spend analysing USDA and COT reports each week?
 
 Most advisors we talk to say 8-10 hours. At £50/hour, that's £20,000-£26,000/year in time value.
 
@@ -282,7 +282,7 @@ P.S. - No credit card needed for trial. You'll get your first COT alert this Fri
 
 **SMS Body:**
 ```
-{{ $json.name.split(' ')[0] }}, still spending Fridays analyzing reports? Try Macrovesta free for 14 days. No credit card. Get your first Friday back: [Short Link] - Joe
+{{ $json.name.split(' ')[0] }}, still spending Fridays analysing reports? Try Macrovesta free for 14 days. No credit card. Get your first Friday back: [Short Link] - Joe
 ```
 
 **Character Count:** 155
@@ -394,10 +394,10 @@ Recommendation: Leave for 30 days, then add to quarterly nurture campaign
 - Email 3 response rate: Target 3-5%
 - Total recovery rate (booked new demo or started trial): Target 20-25%
 
-**Optimization Ideas:**
+**Optimisation Ideas:**
 - A/B test video vs no video in Email 1
 - Test SMS timing (immediately vs 4 hours)
-- Personalize based on industry (cotton vs multi-commodity)
+- Personalise based on industry (cotton vs multi-commodity)
 
 ---
 
@@ -532,7 +532,7 @@ Response:
 
 ### NODE 6: Generate Custom Report (Optional - AI)
 **Type:** `OpenAI` (n8n-nodes-langchain.openAi)
-**Purpose:** Create personalized example analysis for their specific use case
+**Purpose:** Create personalised example analysis for their specific use case
 
 **Prompt:**
 ```
@@ -564,7 +564,7 @@ Write a 2-3 sentence WhatsApp-style alert this advisor would receive. Plain lang
 ```html
 Hi {{ $json.name }},
 
-Great talking with you yesterday! You mentioned you spend {{ $json.hours_per_week }} hours/week analyzing cotton market reports.
+Great talking with you yesterday! You mentioned you spend {{ $json.hours_per_week }} hours/week analysing cotton market reports.
 
 I wanted to show you exactly what you would have received if you'd been using Macrovesta last Friday.
 
@@ -593,7 +593,7 @@ Joe
 P.S. - At {{ $json.hours_per_week }} hours/week, you're spending ~{{ $json.hours_per_week * 52 }} hours/year on analysis. That's {{ ($json.hours_per_week * 52 / 40).toFixed(0) }} work weeks. Imagine getting that time back.
 ```
 
-**Personalization:**
+**Personalisation:**
 - Uses their name
 - References hours they mentioned in demo
 - Calculates their specific time savings
@@ -730,12 +730,12 @@ Or if you have a specific question I didn't address, just reply to this email.
 Best,
 Joe
 
-P.S. - This Friday's COT report could be the first one you DON'T manually analyze. Up to you.
+P.S. - This Friday's COT report could be the first one you DON'T manually analyse. Up to you.
 ```
 
 **Why This Works:**
 - Proactively addresses objections (they don't have to ask)
-- Personalizes with their time data
+- Personalises with their time data
 - Calculates specific ROI for them
 - Low-pressure (just reply if you have questions)
 
@@ -1050,7 +1050,7 @@ Hi,
 
 You downloaded our comparison guide yesterday - hope it was helpful!
 
-Quick question: do you currently analyze CFTC COT reports?
+Quick question: do you currently analyse CFTC COT reports?
 
 Most commodity advisors spend 2-3 hours every Friday pulling data from the PDF and figuring out what it means.
 
@@ -1083,7 +1083,7 @@ P.S. - Here's last Friday's actual COT report if you want to follow along: [PDF 
 ```
 
 **Why This Works:**
-- Provides value (teaches them how to analyze faster manually)
+- Provides value (teaches them how to analyse faster manually)
 - Shows expertise (10+ years experience)
 - Demonstrates product value (30 seconds vs 2 hours)
 - Soft CTA (book demo or trial, low pressure)
@@ -1136,7 +1136,7 @@ I built a quick ROI calculator to help advisors figure out if their current mark
 **[Open ROI Calculator]** (2-minute tool)
 
 It asks:
-- How many hours/week do you spend analyzing reports?
+- How many hours/week do you spend analysing reports?
 - What's your hourly rate?
 - What tools do you currently pay for?
 
@@ -1217,7 +1217,7 @@ If it doesn't, no worries - hopefully the video was still interesting!
 Best,
 Joe
 
-P.S. - This Friday at 3:30 PM, you could get your first automated COT alert. Or you could spend 3 hours manually analyzing like usual. Your choice.
+P.S. - This Friday at 3:30 PM, you could get your first automated COT alert. Or you could spend 3 hours manually analysing like usual. Your choice.
 ```
 
 ---
@@ -1257,7 +1257,7 @@ I wanted to share a quick case study about an advisor similar to you:
 **David T. - Independent Cotton Advisor, Texas**
 
 Before Macrovesta:
-- Spent 10 hours/week analyzing reports
+- Spent 10 hours/week analysing reports
 - Friday evenings writing client summaries
 - Missing family dinners
 - Couldn't take on more clients (time-maxed)
@@ -1408,11 +1408,11 @@ Next_Action: {{ IF WARM THEN "Add to quarterly newsletter" ELSE "Archive" }}
 
 ## OpenAI Integration (Optional)
 
-**Purpose:** Generate personalized messages based on lead data
+**Purpose:** Generate personalised messages based on lead data
 
 **Use Cases:**
 - Custom COT analysis examples (Workflow 2, Email 1)
-- Personalized objection responses
+- Personalised objection responses
 - Dynamic subject line A/B testing
 
 **Setup:**
@@ -1452,12 +1452,12 @@ Next_Action: {{ IF WARM THEN "Add to quarterly newsletter" ELSE "Archive" }}
 - [ ] Watch for errors in Google Sheets updates
 - [ ] Track demo bookings from nurture campaigns
 
-## Optimization (Week 2-4):
+## Optimisation (Week 2-4):
 
 - [ ] A/B test email subject lines
 - [ ] Test SMS vs Email-only sequences
 - [ ] Adjust wait times (24h vs 48h)
-- [ ] Personalize based on lead source
+- [ ] Personalise based on lead source
 - [ ] Add conditional branching (high engagement vs low)
 
 ---
@@ -1473,7 +1473,7 @@ Next_Action: {{ IF WARM THEN "Add to quarterly newsletter" ELSE "Archive" }}
 | Twilio SMS | $0.0075/SMS | 1,000 SMS = $7.50/mo |
 | SendGrid Email | Free-$20/mo | Up to 40K emails/mo (free tier) |
 | Calendly | Free | Basic plan |
-| OpenAI (optional) | $5-20/mo | GPT-4o-mini for personalization |
+| OpenAI (optional) | $5-20/mo | GPT-4o-mini for personalisation |
 | **Total** | **$32-97/mo** | Supports ~500-1,000 leads/mo |
 
 **ROI Calculation:**

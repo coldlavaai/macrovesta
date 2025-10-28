@@ -36,7 +36,7 @@
 **09:00-09:30 | Product & Market Research (30 min | £37.50)**
 - Reviewed existing Macrovesta project documentation
 - Read session log entry about October 27 website build
-- Analyzed product features, target audience, and value proposition
+- Analysed product features, target audience, and value proposition
 - Reviewed website content (homepage, features, testimonials)
 - Compiled initial product intelligence
 
@@ -54,9 +54,9 @@
 
 ---
 
-**09:45-10:15 | Target Persona Prioritization Research (30 min | £37.50)**
+**09:45-10:15 | Target Persona Prioritisation Research (30 min | £37.50)**
 - Researched advisor vs trader personas for B2B SaaS
-- Analyzed sales cycle length, decision complexity, pain point urgency
+- Analysed sales cycle length, decision complexity, pain point urgency
 - Evaluated price sensitivity and network effects potential
 - Assessed value delivery speed and use case clarity
 - **Conclusion:** Start with advisors (weekly recurring pain, 5-day value proof, viral network effects)
@@ -220,7 +220,7 @@
 ---
 
 **17:15-17:45 | Phase 3 Strategy: Advanced Funnels (30 min | £37.50)**
-- Designed quiz funnel (6 questions with personalized results)
+- Designed quiz funnel (6 questions with personalised results)
 - Created webinar funnel structure
   - 45-minute format (30-min presentation + 15-min Q&A)
   - Detailed agenda (minute-by-minute)
@@ -229,7 +229,7 @@
 - Outlined trader expansion strategy (for Month 6+)
 - Outlined partnership strategy (data providers, trade associations, accounting software)
 
-**Deliverable:** Phase 3 optimization and expansion strategies
+**Deliverable:** Phase 3 optimisation and expansion strategies
 
 ---
 
@@ -275,7 +275,7 @@
 **19:00-19:15 | Project Time Log Creation (15 min | £18.75)**
 - Created comprehensive time log for client billing
 - Documented all tasks with time estimates and value calculations
-- Organized by session with deliverables clearly noted
+- Organised by session with deliverables clearly noted
 - Running total tracking for transparency
 
 **Deliverable:** **00-PROJECT-TIME-LOG.md** (this document)
@@ -294,7 +294,7 @@
 
 **19:30-20:45 | Email Template Library Creation (75 min | £93.75)**
 - Created 27 copy-paste ready email templates
-- Organized by funnel stage:
+- Organised by funnel stage:
   - Warm outreach (3 templates)
   - Cold outreach (4 templates)
   - Demo invitation (3 templates)
@@ -302,9 +302,9 @@
   - Post-demo attended (4 templates)
   - Trial → Paid conversion (5 templates)
   - Lead magnet nurture (5 templates)
-- Personalization variables documented
+- Personalisation variables documented
 - Sending cadence recommendations
-- Subject lines optimized for open rates
+- Subject lines optimised for open rates
 
 **Deliverable:** **04-EMAIL-TEMPLATES.md** (27 templates, 12,000+ words, ready to use)
 
@@ -312,7 +312,7 @@
 
 **20:45-21:00 | Channel Priority Strategic Analysis (15 min | £18.75)**
 - Client question: "Think about Google SEO / ads / meta / LinkedIn... where is our market?"
-- Analyzed where commodity advisors actually spend time online
+- Analysed where commodity advisors actually spend time online
 - Reality check on Meta/Instagram (verdict: skip it)
 - Research on LinkedIn, Google Search, industry publications, conferences
 
@@ -342,16 +342,16 @@
 
 **21:45-22:45 | LinkedIn Outreach Scripts Creation (60 min | £75.00)**
 - Created 12+ copy-paste ready LinkedIn message templates
-- Organized by outreach type:
+- Organised by outreach type:
   - Connection requests (3 variants)
   - InMails (3 premium templates)
   - Follow-up sequences (4 messages)
   - Engagement scripts (3 types)
 - LinkedIn post templates (3 types for organic visibility)
-- Best practices (timing, frequency, personalization)
+- Best practices (timing, frequency, personalisation)
 - Response handling guide
 - A/B testing recommendations
-- LinkedIn profile optimization for Joe
+- LinkedIn profile optimisation for Joe
 
 **Deliverable:** **06-LINKEDIN-OUTREACH-SCRIPTS.md** (8,000+ words, 12+ templates, ready to use)
 
@@ -368,7 +368,7 @@
 **23:00-23:30 | Landing Page Copy & Wireframes - Page 1 (30 min | £37.50)**
 - Created macrovesta.ai/traders landing page wireframe
   - Trader-specific messaging (risk reduction vs time savings)
-  - Split-screen problem/solution visualization
+  - Split-screen problem/solution visualisation
   - Risk reduction ROI calculation (avoid £25K losses)
   - Enterprise comparison table
   - Differentiated from advisor page
@@ -398,7 +398,7 @@
 - Incorporated user feedback on Joe's industry relationships
 - Identified Liverpool Cotton Brokers email list as primary asset (existing warm audience!)
 - Restructured Phase 1 strategy: "Start Close to Home, Then Expand"
-- Prioritized warm network exhaustion BEFORE paid ads
+- Prioritised warm network exhaustion BEFORE paid ads
 
 **Key Insight:** Liverpool Cotton Brokers subscribers already receive Friday reports - they're pre-qualified for Macrovesta!
 
@@ -413,7 +413,7 @@
 - Created Section 1.2: Joe's Personal Network Outreach (Days 1-7)
   - Source list (business cards, LinkedIn, phone contacts)
   - Channel priority (phone > LinkedIn DM > email > SMS)
-  - Personalized message template with reciprocity trigger
+  - Personalised message template with reciprocity trigger
   - Expected results: 10 paying customers
 - Added Week 2-3: Industry Favor-Asks section
   - Favor-ask email template (trade associations, publications, influencers)
@@ -427,7 +427,7 @@
 - Updated Phase 1 MRR projection: £4,500-£7,500 (up from £750-£2,250)
 - Added "Success Criteria: When to Move to Phase 2" section
 
-**Deliverable:** **02-LEAD-GENERATION-PLAYBOOK.md** (UPDATED - now prioritizes warm network leverage first)
+**Deliverable:** **02-LEAD-GENERATION-PLAYBOOK.md** (UPDATED - now prioritises warm network leverage first)
 
 ---
 
@@ -492,7 +492,7 @@
 2. **02-LEAD-GENERATION-PLAYBOOK.md** (18,643 words, 45 pages)
    - Phase 1: Quick Wins (Weeks 1-4) - Organic/network leverage
    - Phase 2: Scale (Weeks 5-12) - Paid ads + content marketing
-   - Phase 3: Optimize (Month 4+) - Advanced funnels + expansion
+   - Phase 3: Optimise (Month 4+) - Advanced funnels + expansion
    - Landing page copy (macrovesta.ai/advisors)
    - Demo script (15 minutes)
    - Google Ads campaign structure
@@ -520,7 +520,7 @@
    - Post-demo nurture (4 templates)
    - Trial → Paid conversion (5 templates)
    - Lead magnet nurture (5 templates)
-   - Personalization guide and sending cadence
+   - Personalisation guide and sending cadence
 
 5. **05-CHANNEL-PRIORITY-ANALYSIS.md** (8,500+ words)
    - Channel-by-channel reality check (LinkedIn, Google, Meta, Industry)
@@ -538,8 +538,8 @@
    - Follow-up sequences (4-message sequence)
    - Engagement scripts (commenting, sharing, responding)
    - LinkedIn post templates (educational, value demo, results)
-   - Best practices (timing, frequency, personalization, A/B testing)
-   - LinkedIn profile optimization guide for Joe
+   - Best practices (timing, frequency, personalisation, A/B testing)
+   - LinkedIn profile optimisation guide for Joe
 
 7. **07-LANDING-PAGES-WIREFRAMES.md** (Complete)
    - macrovesta.ai/traders (trader-specific landing page)
@@ -551,7 +551,7 @@
 8. **08-CONTENT-MARKETING-CALENDAR.md** (NEW)
    - 3-month content roadmap (50+ pieces)
    - Week-by-week LinkedIn posts (36 posts with actual copy)
-   - 9 blog post outlines (full SEO-optimized structures)
+   - 9 blog post outlines (full SEO-optimised structures)
    - Email campaign coordination (Liverpool Cotton Brokers, trial nurture, customer onboarding)
    - Content repurposing strategy (1 blog → 7 content pieces)
    - Measurement framework (weekly tracking, monthly adjustments)
@@ -572,7 +572,7 @@
 
 ### Research Outputs:
 
-- Target persona prioritization analysis (Advisors vs Traders - 8 criteria comparison)
+- Target persona prioritisation analysis (Advisors vs Traders - 8 criteria comparison)
 - Competitive landscape synthesis (Bloomberg, Refinitiv, SpreadCharts, free tools)
 - Market gap identification (middle market opportunity at £1,800/year price point)
 - Channel market research (where commodity advisors actually spend time online)
@@ -596,7 +596,7 @@
 ✅ Project time log (full billing transparency)
 
 **Strategic Pivot Incorporated:**
-- Prioritized Joe's Liverpool Cotton Brokers email list and warm network
+- Prioritised Joe's Liverpool Cotton Brokers email list and warm network
 - Restructured Phase 1 to "Start Close to Home, Then Expand"
 - Updated projections: 30-50 customers (vs 5-15 originally), £4,500-£7,500 MRR (vs £750-£2,250)
 - Created specific email template for Liverpool Cotton Brokers announcement
@@ -648,7 +648,7 @@
 - **Ready-to-execute campaigns** (Google Ads, LinkedIn Ads, content, email)
 - **Complete messaging framework** (use across all channels)
 - **Email automation** (27 copy-paste templates for every stage)
-- **Channel prioritization** (where to spend budget, where to avoid - e.g., skip Meta/Instagram)
+- **Channel prioritisation** (where to spend budget, where to avoid - e.g., skip Meta/Instagram)
 - **3-month content calendar** (50+ pieces with actual copy)
 - **Liverpool Cotton Brokers email template** (expected: 15-20 customers from ONE email)
 - Tracking system (measure ROI from day 1)
