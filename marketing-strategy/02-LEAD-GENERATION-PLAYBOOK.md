@@ -26,9 +26,10 @@ This playbook outlines a 3-phase approach to generate leads and sales for Macrov
 ---
 
 # PHASE 1: QUICK WINS (Weeks 1-4)
-**Goal:** 20-50 demos booked, 5-15 paying customers, validate messaging
+**Goal:** 10-15 trial signups, 3-5 paying customers (6-8 total), validate messaging
 **Budget:** £0-500 (mostly time investment)
-**Success Metric:** 10+ conversations with real advisors, 5+ trial signups
+**Starting Position:** 3 existing paying customers
+**Success Metric:** 10+ conversations with real advisors, 10-15 trial signups, 3-5 conversions
 
 ---
 
@@ -126,12 +127,12 @@ P.S. - If you know other advisors or traders who'd benefit from this, feel free 
 
 **Timing:** Send Monday morning (so they can trial before Thursday/Friday reports)
 
-**Expected Results:**
-- Open rate: 40-60% (warm list, recognised sender)
-- Click-through: 15-25% (clear value prop, existing trust)
-- Trial signup: 10-20% of opens
-- If list is 500 people → 200 opens → 30-40 trial signups
-- 50% trial-to-paid conversion → **15-20 paying customers from ONE email**
+**Expected Results (Realistic):**
+- Open rate: 35-45% (warm list, recognised sender)
+- Click-through: 10-15% (clear value prop, existing trust)
+- Trial signup: 1-2% of list size (realistic for B2B SaaS)
+- If list is 400-500 people → 5-8 trial signups
+- 30-40% trial-to-paid conversion → **2-3 paying customers from Liverpool Cotton Brokers list**
 
 **Follow-Up Sequence:**
 - +3 days (Thursday AM): "Your first USDA Export Sales alert arrives in 3 hours - make sure WhatsApp is connected"
@@ -142,7 +143,7 @@ P.S. - If you know other advisors or traders who'd benefit from this, feel free 
 
 ### 1.2 Joe's Personal Network Outreach (Days 1-7)
 
-**Goal:** 50-100 personal messages to advisors/traders Joe knows personally
+**Goal:** 20-30 personal messages to high-quality contacts (advisors/traders Joe knows personally)
 
 **Source List:**
 - Business cards (scan and digitise if needed)

@@ -28,8 +28,8 @@
 - Overview of 3-phase launch plan
 - "Start Close to Home" strategy (Liverpool Cotton Brokers list + warm network)
 - Budget breakdown by phase
-- Expected results: 30-50 customers in Phase 1, £4,500-£7,500 MRR
-- ROI projections (Phase 1: INFINITE - no ad spend needed)
+- Expected results: 10-15 trial signups → 3-5 paying customers (6-8 total) in Phase 1, £900-1,200 MRR
+- ROI projections (Phase 1: INFINITE - no ad spend needed, pure validation)
 
 #### **01-MESSAGING-FRAMEWORK.md** (15,412 words | 28 pages)
 - Market positioning & value propositions
@@ -45,12 +45,12 @@
 
 #### **02-LEAD-GENERATION-PLAYBOOK.md** (18,643 words | 45+ pages)
 **Phase 1: Quick Wins (Weeks 1-4) - £0-500 budget**
-- **PRIORITY #1:** Liverpool Cotton Brokers email announcement (expected: 15-20 customers)
-- Joe's personal network outreach (expected: 10 customers)
-- Industry favor-asks (trade associations, publications, influencers)
-- Early adopter referral program
+- **PRIORITY #1:** Liverpool Cotton Brokers email announcement (expected: 5-8 trials → 2-3 customers)
+- Joe's personal network outreach (expected: 4-6 trials → 1-2 customers)
+- Industry favour-asks (trade associations, publications, influencers)
+- Early adopter referral programme
 - LinkedIn organic content strategy
-- **Total Phase 1 Projection: 30-50 customers, £4,500-£7,500 MRR**
+- **Total Phase 1 Projection: 10-15 trial signups → 3-5 new customers (6-8 total), £900-1,200 MRR**
 
 **Phase 2: Scale (Weeks 5-12) - £1,500-3,000/month budget**
 - Google Search Ads campaign (£800-1,200/month)
@@ -90,7 +90,7 @@ Copy-paste ready for every stage:
 
 **Special Template:** Liverpool Cotton Brokers Email Announcement
 → Subject: "I've automated our Friday reports (you're going to love this)"
-→ Expected results: 15-20 paying customers from ONE email
+→ Expected results: 5-8 trial signups → 2-3 paying customers from Liverpool Cotton Brokers list
 
 #### **06-LINKEDIN-OUTREACH-SCRIPTS.md** (8,000+ words | 12+ scripts)
 - Connection request messages (3 variants - 300 char limit)
@@ -183,45 +183,53 @@ Based on Joe's unique assets:
 2. **Decades of industry relationships** - Business cards, LinkedIn, phone contacts
 3. **Industry credibility and respect** - People will do him favors, share to their networks
 
-### Phase 1 Strategy (Updated)
+### Phase 1 Strategy (Updated - Realistic Targets)
+
+**Starting Position:** 3 existing paying customers
 
 **Week 1-2:**
 - Liverpool Cotton Brokers email announcement (PRIORITY #1)
-- Joe's personal network outreach (50-100 contacts)
+- Joe's personal network outreach (20-30 high-quality contacts)
 
 **Week 2-3:**
-- Industry favor-asks (trade associations, publications, influencers)
-- Guest article placements
+- Industry favour-asks (3-5 high-value relationships only)
+- Guest article pitch (1 article)
 
 **Week 3-4:**
-- Early adopter referral program
-- LinkedIn organic content
+- Early adopter referral programme
+- LinkedIn organic content (3 posts/week)
 
-**Expected Results: 30-50 paying customers, £4,500-£7,500 MRR**
+**Expected Results: 10-15 trial signups → 3-5 new paying customers (6-8 total), £900-1,200 MRR**
 **Budget: £0-500 (pure network leverage - NO ad spend)**
 **ROI: INFINITE**
+**Focus: Validation and learning, not scale**
 
 ---
 
 ## 📊 Projected Results by Phase
 
-### Phase 1 (Weeks 1-4)
-- Customers: 30-50
-- MRR: £4,500-£7,500
+### Phase 1 (Weeks 1-4) - Validate
+- Starting: 3 customers
+- Goal: 6-8 total customers (3-5 new)
+- MRR: £900-1,200
 - Budget: £0-500
-- Strategy: Warm network leverage
+- Strategy: Warm network leverage, validation and learning
 
-### Phase 2 (Weeks 5-12)
-- Customers: 60-100 total
-- MRR: £9,000-£15,000
+### Phase 2 (Weeks 5-12) - Test Paid Channels
+- Starting: 6-8 customers
+- Goal: 25-35 total customers (17-27 new)
+- MRR: £3,750-5,250
 - Budget: £1,500-3,000/month
-- Strategy: Paid acquisition + content
+- Strategy: Paid acquisition testing + content foundation
 
-### Phase 3 (Month 4+)
-- Customers: 100-200 total
-- MRR: £15,000-£30,000
+### Phase 3 (Month 4-6) - Optimise and Expand
+- Starting: 25-35 customers
+- Goal: 50-75 total customers (25-40 new)
+- MRR: £7,500-11,250
 - Budget: £3,000-5,000/month
-- Strategy: Advanced funnels + scale
+- Strategy: Advanced funnels + partnerships + trader validation
+
+**Progression:** 3 → 6-8 → 25-35 → 50-75 = Path to 100+ by end of Year 1
 
 ---
 
@@ -231,13 +239,16 @@ Based on Joe's unique assets:
 2. ✅ Approve messaging and positioning
 3. ⏳ Build landing page (macrovesta.ai/advisors)
 4. ⏳ Set up Calendly for demo bookings
-5. ⏳ Prepare Liverpool Cotton Brokers email list
+5. ⏳ Prepare Liverpool Cotton Brokers email list (clean and segment)
 6. ⏳ **Send Liverpool Cotton Brokers announcement** (Monday morning - email template in playbook)
-7. ⏳ Joe identifies 50-100 personal contacts to reach out to
-8. ⏳ Post first 3 LinkedIn updates (copy in content calendar)
+7. ⏳ Joe identifies 20-30 high-quality personal contacts to reach out to
+8. ⏳ Send first 10-15 personal outreach messages to closest contacts
+9. ⏳ Post first 3 LinkedIn updates (copy in content calendar)
 
-**Timeline to First Customer:** 7-14 days
-**Timeline to 30+ Customers:** 30-45 days (using only warm network)
+**Timeline to First Trial Signup:** 1-7 days
+**Timeline to First New Paying Customer:** 7-21 days
+**Timeline to 10 Total Customers:** 8-12 weeks (end of Phase 2)
+**Timeline to 50+ Customers:** 6 months (end of Phase 3)
 
 ---
 
