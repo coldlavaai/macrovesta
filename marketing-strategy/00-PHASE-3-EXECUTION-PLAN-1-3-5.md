@@ -17,58 +17,75 @@ This plan uses the 1-3-5® business planning framework - the **lifeblood** of ou
 
 # THE 1: Our Phase 3 Vision (Ultimate Goal)
 
-## "By the end of Month 6, we have 200+ paying Macrovesta customers generating £30,000+ monthly recurring revenue with advanced funnels (quiz + webinar) converting at 2x baseline rates, 5+ strategic industry partnerships generating recurring referrals, and successful trader market penetration delivering 30+ new customers from the secondary market."
+## "By the end of Month 6, we have 50-75 total paying Macrovesta customers generating £7,500-£11,250 monthly recurring revenue, with advanced funnels (quiz + webinar) improving conversion rates, 2-3 strategic industry partnerships starting to generate referrals, and initial trader market validation with 5-10 paying trader customers."
 
-**Success Metrics:**
-- ✅ 200+ paying customers
-- ✅ £30,000+ MRR
-- ✅ Advanced funnels: 50+ customers from quiz + webinar
-- ✅ Industry partnerships: 40+ customers from partner referrals
-- ✅ Trader market: 30+ customers from trader-specific campaigns
-- ✅ <10% churn rate
-- ✅ <£150 overall CAC
-- ✅ 2,000+ monthly organic website visitors
-- ✅ 20+ video testimonials
+**Success Metrics (Starting from 25-35 customers after Phase 2):**
+- ✅ 50-75 total paying customers (25-40 new customers in Phase 3)
+- ✅ £7,500-£11,250 MRR
+- ✅ Advanced funnels: 10-15 customers from quiz + webinar (proving they work)
+- ✅ Industry partnerships: 5-10 customers from 2-3 partner relationships
+- ✅ Trader market: 5-10 customers from trader-specific campaigns (validation)
+- ✅ Scaled paid ads: 10-15 additional customers (optimized from Phase 2 learnings)
+- ✅ <15% churn rate (improving from Phase 2)
+- ✅ <£200 overall CAC (optimizing channels)
+- ✅ 800-1,200 monthly organic website visitors (SEO compounding)
+- ✅ 10-15 total video testimonials (diverse customer stories)
 
 **Why This Matters:**
-- Proves advanced funnels work (quiz qualifies better, webinars scale demos)
-- Establishes partnerships that compound (recurring referrals)
-- Expands TAM with trader market (secondary revenue stream)
-- Achieves sustainable growth engine (£30K MRR)
-- Creates defensible moat (partnerships + content library)
+- **Proves advanced funnels improve conversion** (quiz qualifies leads, webinar scales demos)
+- **Establishes 2-3 partnership relationships** that will compound in Year 2
+- **Validates trader market** as viable secondary revenue stream
+- **Achieves sustainable growth trajectory** towards 100 customers by end of Year 1
+- **Builds defensible moat** (partnerships + content library + customer testimonials)
+- **Phase 3 is about proving systems work, not hitting massive scale yet**
 
 ---
 
 # THE 3: Mission-Critical Objectives
 
-## Objective 1: "Advanced funnels (quiz + webinar) have generated 50+ paying customers and are converting at 2x baseline demo-to-paid rates"
+## Objective 1: "Advanced funnels (quiz + webinar) have generated 10-15 paying customers and proven to convert better than baseline direct-response"
 
 **Why This Is Critical:**
-Phase 2 proved direct response works (ads → landing page → demo). But we left money on the table: unqualified demos waste time, cold traffic bounces without capturing emails.
+Phase 2 proved direct response works (ads → landing page → demo). But we can do better: unqualified demos waste time, cold traffic bounces without capturing emails.
 
-Quiz funnels pre-qualify leads AND capture emails from non-buyers. Webinars scale demos 1-to-many (30 people per webinar vs 30 individual demos). Both increase conversion AND reduce CAC.
+Quiz funnels pre-qualify leads AND capture emails from non-buyers. Webinars scale demos 1-to-many (50 people per webinar vs 50 individual demos). Both should increase conversion AND reduce time cost.
 
-Success here means profitable acquisition at scale.
+**Realistic Expectations:**
+- Phase 3 is about proving these funnels work, not scaling them yet
+- Target: 10-15 customers from advanced funnels proves the concept
+- If quiz and webinar both convert better than baseline, scale in Month 7+
+- **This objective tests whether funnel optimization can improve economics**
 
 ---
 
-## Objective 2: "5+ strategic industry partnerships have generated 40+ paying customers through recurring referral programmes"
+## Objective 2: "2-3 strategic industry partnerships have been established and generated 5-10 paying customers"
 
 **Why This Is Critical:**
-Paid ads are expensive. Partnerships are leverage - one integration or referral agreement can generate 10-100 customers over time with minimal ongoing cost.
+Paid ads are expensive. Partnerships are leverage - one integration or referral agreement can generate recurring customers over time with minimal ongoing cost.
 
-Trade associations, data providers, accounting software, industry publications - these partners already have our target audience's trust. A referral from Cotton Outlook carries more weight than any ad.
+Trade associations, data providers, industry publications - these partners already have our target audience's trust. A referral from Cotton Outlook carries more weight than any ad.
 
-Success here creates compounding growth (partners keep referring).
+**Realistic Expectations:**
+- Partnerships take 2-3 months to establish (negotiate, agree terms, integrate)
+- Target: 2-3 partnerships live by Month 6
+- 5-10 customers from partnerships in Phase 3 proves they work
+- These partnerships compound in Year 2 (recurring referrals)
+- **This objective plants seeds for long-term, low-CAC growth**
 
 ---
 
-## Objective 3: "Trader market expansion has delivered 30+ paying customers through trader-specific messaging and campaigns"
+## Objective 3: "Trader market has been validated with 5-10 paying trader customers"
 
 **Why This Is Critical:**
-We've proven product-market fit with advisors (PRIMARY market). Now expand TAM with traders (SECONDARY market). Traders have different pain points (risk reduction vs time savings) but same core problem (Friday reports).
+We've proven product-market fit with advisors (PRIMARY market). Now test traders (SECONDARY market). Traders have different pain points (risk reduction vs time savings) but same core problem (Friday reports).
 
-Success here diversifies revenue, reduces dependence on advisor market, and opens path to larger trading firms (5-50 employees).
+**Realistic Expectations:**
+- Phase 3 is about VALIDATION, not dominating the trader market
+- Different messaging needed (landing page, ads, positioning)
+- Target: 5-10 paying trader customers proves traders will pay
+- If it works, scale trader acquisition in Year 2
+- If it doesn't work well, double down on advisors instead
+- **This objective tests whether expanding TAM makes sense**
 
 ---
 

@@ -55,65 +55,82 @@ This framework is the **lifeblood of our entire strategy** - every phase, every 
 ## 3-Phase Launch Plan
 
 ### PHASE 1: Quick Wins - Start Close to Home (Weeks 1-4)
-**Goal:** 30-50 paying customers
+**Goal:** 10-15 free trial signups, 3-5 convert to paying (6-8 total customers)
 **Budget:** £0-500
-**Strategy:** EXHAUST Joe's warm network and existing assets BEFORE spending on ads
+**Strategy:** Validate product-market fit with Joe's warm network BEFORE spending on ads
+
+**Starting Position:** 3 existing paying customers
 
 **Joe's Unfair Advantages:**
 1. **Liverpool Cotton Brokers email list** (existing audience receiving Friday reports - pre-qualified!)
 2. **Decades of industry relationships** (business cards, LinkedIn, phone contacts)
-3. **Industry credibility** (people will do him favors, share to their networks)
+3. **Industry credibility** (people will do him favours, share to their networks)
 
 **Tactics (Week-by-Week):**
-- **Week 1-2:** Liverpool Cotton Brokers email announcement + Joe's personal network (50-100 direct outreach)
-- **Week 2-3:** Industry favor-asks (trade association leaders, publication editors, influencers)
-- **Week 3-4:** Early adopter referral program + LinkedIn organic (3 posts/week)
+- **Week 1-2:** Liverpool Cotton Brokers email announcement + Joe's personal network (20-30 high-quality contacts)
+- **Week 2-3:** Industry favour-asks (3-5 high-value relationships only)
+- **Week 3-4:** Early adopter referral programme + LinkedIn organic (3 posts/week)
 
 **Expected Results:**
-- Liverpool Cotton Brokers list: 15-20 paying customers
-- Personal network: 10 paying customers
-- Favor-asks & referrals: 5-10 paying customers
-- LinkedIn organic: 2-5 paying customers
-- **Total: 30-50 paying customers**
-- **£4,500-£7,500 MRR**
+- Liverpool Cotton Brokers list: 5-8 trial signups → 2-3 paying customers
+- Personal network: 4-6 trial signups → 1-2 paying customers
+- Favour-asks & referrals: 1-2 trial signups → 0-1 paying customers
+- **Total: 10-15 trial signups → 3-5 new paying customers**
+- **Total customers after Phase 1: 6-8**
+- **£900-£1,200 MRR**
 - **ROI: INFINITE (no ad spend, pure network leverage)**
+- **Phase 1 is about learning and validation, not massive scale**
 
 ---
 
-### PHASE 2: Scale (Weeks 5-12)
-**Goal:** 25-50 paying customers total
+### PHASE 2: Scale with Paid Acquisition Testing (Weeks 5-12)
+**Goal:** 25-35 total paying customers (17-27 new customers)
 **Budget:** £1,500-3,000/month
+**Strategy:** Test paid acquisition channels, build content foundation, prove paid ads can work
+
+**Starting Position:** 6-8 customers after Phase 1
+
 **Tactics:**
-- Google Search Ads (£800-1,200/month) - High-intent keywords
+- Google Search Ads (£1,000-1,200/month) - High-intent keywords, testing and learning
 - LinkedIn Ads (£700-1,000/month) - Job title targeting
-- Content marketing (9 blog posts over 3 months)
+- Content marketing (9 blog posts over 8 weeks) - SEO foundation
 - Lead magnets (Comparison Guide, ROI Calculator, 2026 Outlook)
 - Email nurture sequences (automated)
 
 **Expected Results:**
-- 150-250 demos booked
-- 75-125 trial signups
-- 40-65 paying customers total
-- £6,000-£9,750 MRR
+- Google Ads: 10-15 new paying customers at <£250 CAC
+- LinkedIn Ads: 5-10 new paying customers at <£300 CAC
+- Content marketing: 2-5 organic customers
+- **Total: 25-35 paying customers**
+- **£3,750-£5,250 MRR**
+- **Phase 2 proves paid acquisition can work at acceptable CAC**
 
 ---
 
-### PHASE 3: Optimise (Month 4+)
-**Goal:** 100-200 paying customers
+### PHASE 3: Optimise and Expand (Month 4-6)
+**Goal:** 50-75 total paying customers (25-40 new customers)
 **Budget:** £3,000-5,000/month
+**Strategy:** Optimise funnels, establish partnerships, validate trader market
+
+**Starting Position:** 25-35 customers after Phase 2
+
 **Tactics:**
-- Scale paid ads (Google + LinkedIn)
-- Quiz funnel (personalised lead qualification)
-- Webinars (educate at scale, 50-100 attendees/month)
-- Industry partnerships (Cotton Outlook, trade associations)
-- Conference presence (ICAC, National Cotton Council)
-- Expand to traders (different messaging)
+- Scale paid ads with learnings from Phase 2 (Google + LinkedIn)
+- Quiz funnel (personalised lead qualification) - prove it works
+- Webinars (educate at scale, 1-2 webinars/month)
+- Industry partnerships (Cotton Outlook, trade associations) - 2-3 partnerships
+- Trader market testing (different messaging, dedicated landing page)
 
 **Expected Results:**
-- £15,000-£30,000 MRR
-- <£200 CAC
-- <10% churn
-- 12:1+ LTV:CAC ratio
+- Advanced funnels: 10-15 customers
+- Partnerships: 5-10 customers
+- Trader market: 5-10 customers
+- Scaled ads: 10-15 customers
+- **Total: 50-75 paying customers**
+- **£7,500-£11,250 MRR**
+- **<£200 average CAC**
+- **<15% churn**
+- **Phase 3 proves systems work and sets foundation for scaling in Year 2**
 
 ---
 
@@ -271,24 +288,28 @@ Paid Customer
 ## Success Metrics
 
 ### Phase 1 Success = GO to Phase 2:
-- ✅ 5+ paying customers
-- ✅ Demo → Paid conversion >25%
-- ✅ 2+ video testimonials
-- ✅ CAC <£300
+- ✅ 5+ total paying customers (up from 3 - showing growth)
+- ✅ £750+ MRR
+- ✅ Trial → Paid conversion >25%
+- ✅ 2-3 video testimonials
+- ✅ Churn <25% in first month
+- ✅ Product working reliably (no major technical issues)
 
 ### Phase 2 Success = GO to Phase 3:
-- ✅ 40+ paying customers
-- ✅ £6,000+ MRR
-- ✅ CAC <£200
-- ✅ LTV:CAC >9:1
-- ✅ Organic traffic 500+/month
+- ✅ 25+ total paying customers
+- ✅ £3,750+ MRR
+- ✅ CAC <£300 on at least one paid channel
+- ✅ Churn <20%
+- ✅ LTV:CAC >6:1
+- ✅ Organic traffic 300+/month
 
 ### Phase 3 Success = Sustainable Growth:
-- ✅ 100+ paying customers
-- ✅ £15,000+ MRR
-- ✅ CAC <£150
-- ✅ Churn <10%
-- ✅ 20%+ MRR growth month-over-month
+- ✅ 50+ total paying customers
+- ✅ £7,500+ MRR
+- ✅ CAC <£200 (blended across channels)
+- ✅ Churn <15%
+- ✅ 2-3 partnerships established
+- ✅ Trader market validated (5+ trader customers)
 
 ---
 
@@ -317,22 +338,24 @@ Paid Customer
 
 **Every action we take flows through the 1-3-5® methodology:**
 
-**Phase 1 (Weeks 1-4):**
-- **THE 1:** 30+ paying customers, £4,500+ MRR, £0-500 spend
-- **THE 3:** (1) Liverpool Cotton Brokers list → 15-20 customers, (2) Joe's personal network → 10+ customers, (3) Industry relationships → 5-10+ customers
+**Phase 1 (Weeks 1-4): Validate**
+- **THE 1:** 10-15 trial signups, 3-5 convert to paying (6-8 total customers), £900-1,200 MRR, £0-500 spend
+- **THE 3:** (1) Liverpool Cotton Brokers list → 5-8 trials, 2-3 customers, (2) Personal network → 4-6 trials, 1-2 customers, (3) Industry relationships → seeds planted, 0-1 customers
 - **THE 5:** 15 specific actions mapped week-by-week
 
-**Phase 2 (Weeks 5-12):**
-- **THE 1:** 100 paying customers, £15,000 MRR, validated paid acquisition
-- **THE 3:** (1) Google Ads scaled, (2) LinkedIn Ads scaled, (3) Content marketing producing leads
-- **THE 5:** 15 actions for paid acquisition optimization
+**Phase 2 (Weeks 5-12): Test Paid Channels**
+- **THE 1:** 25-35 total paying customers, £3,750-5,250 MRR, paid acquisition proven at <£300 CAC
+- **THE 3:** (1) Google Ads → 10-15 new customers at <£250 CAC, (2) LinkedIn Ads → 5-10 new customers at <£300 CAC, (3) Content marketing → 2-5 organic customers
+- **THE 5:** 15 actions for paid acquisition testing and optimisation
 
-**Phase 3 (Month 4+):**
-- **THE 1:** 200+ paying customers, £30,000 MRR, sustainable growth engine
-- **THE 3:** (1) Advanced funnels converting, (2) Industry partnerships live, (3) Trader market penetration
-- **THE 5:** 15 actions for market expansion
+**Phase 3 (Month 4-6): Optimise and Expand**
+- **THE 1:** 50-75 total paying customers, £7,500-11,250 MRR, advanced funnels and partnerships working
+- **THE 3:** (1) Advanced funnels → 10-15 customers, (2) Partnerships → 5-10 customers from 2-3 partnerships, (3) Trader market → 5-10 customers (validation)
+- **THE 5:** 15 actions for optimisation and market expansion
 
 **Full execution plans available in dedicated 1-3-5 documents.**
+
+**Progression Summary:** 3 customers (current) → 6-8 (Phase 1) → 25-35 (Phase 2) → 50-75 (Phase 3) = Path to 100+ customers by end of Year 1
 
 ---
 
@@ -342,13 +365,16 @@ Paid Customer
 2. ✅ Approve messaging and positioning
 3. ✅ Build landing page (macrovesta.ai/advisors)
 4. ✅ Set up Calendly for demo bookings
-5. ✅ Identify 50 advisors in Joe's network
-6. ✅ Send first 50 warm outreach emails
-7. ✅ Post first 3 LinkedIn updates (educational content)
+5. ✅ Prepare Liverpool Cotton Brokers email list (clean and segment)
+6. ✅ Send Liverpool Cotton Brokers announcement (Monday morning, Week 1)
+7. ✅ Identify 20-30 high-quality contacts in Joe's personal network
+8. ✅ Send first 10-15 personal outreach messages to closest contacts
+9. ✅ Post first 3 LinkedIn updates (educational content)
 
-**Timeline to First Customer:** 7-14 days
-**Timeline to 10 Customers:** 30-45 days
-**Timeline to £15K MRR:** 4-6 months
+**Timeline to First Trial Signup:** 1-7 days
+**Timeline to First New Paying Customer:** 7-21 days
+**Timeline to 10 Total Customers:** 8-12 weeks (end of Phase 2)
+**Timeline to 50+ Customers:** 6 months (end of Phase 3)
 
 ---
 
@@ -384,19 +410,29 @@ Paid Customer
 
 ## Investment vs. Return
 
-**Total First-Year Marketing Investment:**
-- Phase 1: £500
-- Phase 2: £18,000 (£2,250/month × 8 months)
-- Phase 3: £24,000 (£4,000/month × 6 months)
-- **Total: £42,500**
+**Total First 6-Month Marketing Investment:**
+- Phase 1 (Weeks 1-4): £500
+- Phase 2 (Weeks 5-12): £12,000-18,000 (£1,500-2,250/month × 8 weeks)
+- Phase 3 (Months 4-6): £9,000-15,000 (£3,000-5,000/month × 3 months)
+- **Total 6-Month Investment: £21,500-33,500**
 
-**Projected First-Year Revenue:**
-- Month 3: 25 customers × £150/month = £3,750 MRR
-- Month 6: 50 customers × £150/month = £7,500 MRR
-- Month 12: 100 customers × £150/month = £15,000 MRR
-- **Total Year 1 Revenue: £90,000+**
+**Projected 6-Month Revenue Progression:**
+- Month 1 (end of Phase 1): 6-8 customers × £150/month = £900-1,200 MRR
+- Month 3 (mid-Phase 2): 15-20 customers × £150/month = £2,250-3,000 MRR
+- Month 4 (end of Phase 2): 25-35 customers × £150/month = £3,750-5,250 MRR
+- Month 6 (end of Phase 3): 50-75 customers × £150/month = £7,500-11,250 MRR
+- **Total First 6 Months Revenue: £60,000-90,000 (cumulative)**
 
-**ROI: 212%** (£90K revenue on £42.5K spend)
+**Projected First-Year Results (if growth continues):**
+- Month 12: 100-125 customers × £150/month = £15,000-18,750 MRR
+- **Total Year 1 Revenue: £120,000-150,000**
+
+**Conservative ROI Calculation (6 months):**
+- Revenue: £60,000-90,000
+- Investment: £21,500-33,500
+- **ROI: 180-270%**
+
+**Key Point:** This is a realistic, achievable progression that prioritises learning and validation over unrealistic growth targets.
 
 ---
 

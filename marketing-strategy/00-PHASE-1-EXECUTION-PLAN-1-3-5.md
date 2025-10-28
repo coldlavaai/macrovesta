@@ -19,52 +19,77 @@ This framework ensures focused execution with measurable progress towards our ul
 
 # THE 1: Our Phase 1 Vision (Ultimate Goal)
 
-## "By the end of Week 4, we have 30+ paying Macrovesta customers generating £4,500+ monthly recurring revenue through Joe's warm network and industry relationships, with zero money spent on advertising."
+## "By the end of Week 4, we have 10-15 advisors actively trialling Macrovesta, with 3-5 converting to paying customers (bringing us to 6-8 total paying customers), genuine user feedback guiding product improvements, and clear proof that the 'Friday night problem' messaging resonates."
 
 **Success Metrics:**
-- ✅ 30-50 paying customers
-- ✅ £4,500-£7,500 MRR
-- ✅ 10+ video testimonials collected
-- ✅ 50%+ trial-to-paid conversion rate
-- ✅ <15% churn in first month
-- ✅ £0-500 total spend (no ad budget)
-- ✅ 5+ industry influencers sharing Macrovesta to their networks
+- ✅ 10-15 active free trial signups
+- ✅ 3-5 trial → paid conversions in Week 4
+- ✅ 6-8 total paying customers (including existing 3)
+- ✅ £900-£1,200 MRR (modest growth from current baseline)
+- ✅ 3+ video testimonials collected (genuine user stories)
+- ✅ 30-40% trial-to-paid conversion rate (realistic for new product)
+- ✅ <20% churn in first month (learning from early feedback)
+- ✅ £0-500 total spend (pure network leverage, no ad budget)
+- ✅ Clear documentation of why people buy and why they don't (insight for Phase 2)
 
 **Why This Matters:**
-- Validates product-market fit before spending on ads
-- Builds social proof (testimonials) for Phase 2 campaigns
-- Creates referral momentum (customers bring more customers)
-- Proves "Start Close to Home" strategy works
-- Establishes baseline metrics for scaling
+- **Validates product-market fit** before spending on paid ads
+- **Builds genuine social proof** (testimonials, case studies) for Phase 2 campaigns
+- **Gathers critical user feedback** to improve product before scaling
+- **Proves "Start Close to Home" strategy** works with real numbers
+- **Establishes baseline conversion metrics** for paid acquisition forecasting
+- **Creates early referral momentum** (even 1-2 referrals proves viral loop)
+- **Stress-tests onboarding** and customer support processes with manageable volume
 
 ---
 
 # THE 3: Mission-Critical Objectives
 
-## Objective 1: "We have converted Liverpool Cotton Brokers email list into 15-20 paying customers"
+## Objective 1: "Liverpool Cotton Brokers email list has generated 5-8 active trial signups, with 2-3 converting to paying customers"
 
 **Why This Is Critical:**
 Liverpool Cotton Brokers subscribers already receive Friday cotton market reports from Joe. They're pre-qualified, they trust Joe's expertise, and the value proposition is obvious: "You like the Friday report? Get the automated version that saves you 10 hours/week."
 
-This is our highest-probability conversion source. One email can generate 15-20 customers immediately.
+This is our highest-probability conversion source - warm audience who already value Joe's analysis. Even modest conversion rates (5-8 trials from 400-500 list) prove the concept works.
+
+**Realistic Expectations:**
+- Starting position: 3 paying customers
+- Email list: 400-500 subscribers (warm but not all active)
+- Expected trial signup rate: 1-2% (5-10 trials realistic)
+- Expected trial → paid: 30-40% (2-3 paying customers)
+- **Goal: 2-3 new paying customers from this source**
 
 ---
 
-## Objective 2: "Joe's personal network has generated 10+ paying customers through direct relationship-based outreach"
+## Objective 2: "Joe's personal network has generated 4-6 trial signups through direct relationship-based outreach, with 1-2 converting to paying customers"
 
 **Why This Is Critical:**
 Joe has decades of industry relationships: business cards, phone contacts, LinkedIn connections, past consulting clients, conference contacts. These people know Joe, respect his expertise, and will trial based on his personal recommendation alone.
 
-This is zero-cost, high-trust acquisition. No ad spend needed.
+This is zero-cost, high-trust acquisition. Even reaching 20-30 contacts personally can generate 4-6 serious trial signups. Quality over quantity in Phase 1.
+
+**Realistic Expectations:**
+- Personal outreach: 20-30 high-quality contacts (not 100+)
+- Expected response rate: 40-50% (warm relationships)
+- Expected trial signup: 20-30% of responders (4-6 trials)
+- Expected trial → paid: 30-40% (1-2 paying customers)
+- **Goal: 1-2 new paying customers from this source**
 
 ---
 
-## Objective 3: "Industry relationships have created viral momentum with 5-10+ customers from referrals and favour-asks"
+## Objective 3: "Industry relationships have been activated for future growth, with 1-2 trial signups from early referrals and favour-asks"
 
 **Why This Is Critical:**
-Joe knows trade association leaders, publication editors, and industry influencers who can share Macrovesta to their networks. Each share reaches 500-5,000 people. This creates compounding network effects: customers refer customers, influencers amplify reach.
+Joe knows trade association leaders, publication editors, and industry influencers who can share Macrovesta to their networks. Phase 1 is about planting seeds - getting 1-2 favour-asks to say yes, publishing 1 guest article, activating the referral programme with early customers.
 
-This builds early adopter referral loops that continue beyond Week 4.
+The goal isn't massive volume in Week 4 - it's building relationships and momentum that compound in Phases 2-3.
+
+**Realistic Expectations:**
+- This is the "plant seeds" objective, not "harvest crops"
+- Focus on 3-5 high-value favour-asks (not 20+)
+- Target: 1-2 yeses (which may not convert immediately)
+- Launch referral programme (even 1-2 referrals in Week 4 proves the loop works)
+- **Goal: Relationships activated + 0-1 paying customer from this source (bonus if it happens)**
 
 ---
 
@@ -113,9 +138,9 @@ This builds early adopter referral loops that continue beyond Week 4.
 - [Secondary] Book 15-Minute Demo →
 
 **Success Metrics:**
-- 40-60% open rate (warm list, recognised sender)
-- 15-25% click-through rate
-- 10-20% trial signup rate (40-80 trial signups if 400 list size)
+- 35-45% open rate (warm list, recognised sender)
+- 10-15% click-through rate
+- 1-2% trial signup rate (5-8 trial signups from 400 list size - realistic for B2B SaaS)
 
 ---
 
@@ -138,22 +163,22 @@ This builds early adopter referral loops that continue beyond Week 4.
 - [Secondary] See How It Works (Demo Video)
 
 **Success Metrics:**
-- 25-35% open rate (second touch)
-- 10-15% click-through
-- 5-10% trial signup (10-20 additional trials)
+- 20-30% open rate (second touch)
+- 8-12% click-through
+- 1-2% trial signup (2-4 additional trials from non-openers)
 
 ---
 
 ### Action 1.4: Personal Follow-Up Calls to High-Value Subscribers (Days 2-7)
 **Owner:** Joe
 **Deadline:** Week 1, ongoing
-**Deliverable:** 10-20 phone calls to top-tier Liverpool Cotton Brokers subscribers
+**Deliverable:** 5-10 phone calls to top-tier Liverpool Cotton Brokers subscribers (quality over quantity)
 
 **Who to Call:**
 - Subscribers who've opened every report for 6+ months (highly engaged)
 - Subscribers Joe knows personally
 - Subscribers who've replied to past reports
-- Large advisory firms (5+ person teams)
+- Advisory firms Joe has worked with before (established relationships)
 
 **Call Script:**
 ```
@@ -175,10 +200,10 @@ Would you be open to trying it free for 14 days? I'd love your feedback."
 ```
 
 **Success Metrics:**
-- 10-20 calls completed by end of Week 1
-- 60-80% positive response rate
-- 8-15 trial signups from calls
-- 5-10 paying customers from this group
+- 5-10 calls completed by end of Week 1
+- 50-70% positive response rate (realistic for even warm calls)
+- 2-4 trial signups from calls
+- 1-2 paying customers from this group (high-intent calls)
 
 ---
 
@@ -191,15 +216,15 @@ Would you be open to trying it free for 14 days? I'd love your feedback."
 | Metric | Target | Actual | Notes |
 |--------|--------|--------|-------|
 | Email list size | 400-500 | ___ | |
-| Email 1 open rate | 40-60% | ___ | |
-| Email 1 click rate | 15-25% | ___ | |
-| Email 2 open rate | 25-35% | ___ | |
-| Email 2 click rate | 10-15% | ___ | |
-| Trial signups (email) | 40-60 | ___ | |
-| Trial signups (calls) | 8-15 | ___ | |
-| Total trials | 50-75 | ___ | |
-| Trial → Paid conversion | 50%+ | ___ | |
-| **Total customers** | **15-20** | **___** | |
+| Email 1 open rate | 35-45% | ___ | |
+| Email 1 click rate | 10-15% | ___ | |
+| Email 2 open rate | 20-30% | ___ | |
+| Email 2 click rate | 8-12% | ___ | |
+| Trial signups (email) | 5-8 | ___ | Realistic for B2B |
+| Trial signups (calls) | 2-4 | ___ | High-value calls |
+| Total trials | 7-12 | ___ | Combined |
+| Trial → Paid conversion | 30-40% | ___ | Learning phase |
+| **Total customers** | **2-3** | **___** | **New customers from this source** |
 
 **Weekly Actions:**
 - Monday: Review previous week's numbers
@@ -209,19 +234,19 @@ Would you be open to trying it free for 14 days? I'd love your feedback."
 - Check-in call Friday afternoon: "How was your first COT alert?"
 
 **Success Metrics:**
-- 15-20 paying customers from Liverpool Cotton Brokers list by Week 4
-- 50%+ trial-to-paid conversion rate
-- <10% churn in first month
-- 5+ video testimonials from Liverpool Cotton Brokers customers
+- 2-3 new paying customers from Liverpool Cotton Brokers list by Week 4
+- 30-40% trial-to-paid conversion rate (learning and improving)
+- <20% churn in first month (gathering feedback to reduce)
+- 1-2 video testimonials from Liverpool Cotton Brokers customers (genuine stories)
 
 ---
 
-## OBJECTIVE 2: Joe's Personal Network → 10+ Customers
+## OBJECTIVE 2: Joe's Personal Network → 4-6 Trials, 1-2 Customers
 
 ### Action 2.1: Build Joe's Personal Network Contact List (Days 1-3)
 **Owner:** Joe
 **Deadline:** Wednesday, Week 1, 5 PM
-**Deliverable:** Spreadsheet with 50-100 warm contacts
+**Deliverable:** Spreadsheet with 20-30 high-quality warm contacts (quality over quantity)
 
 **Sources:**
 - Business cards (scan and digitise if needed)
@@ -239,17 +264,17 @@ Would you be open to trying it free for 14 days? I'd love your feedback."
 
 **Prioritisation:**
 - **High Priority:** Personal friends, past clients, people who owe Joe favours
-- **Medium Priority:** Conference contacts, LinkedIn connections, association members
-- **Low Priority:** Distant connections, haven't spoken in 2+ years
+- **Medium Priority:** Recent conference contacts, active LinkedIn connections
+- **Skip for Phase 1:** Distant connections, haven't spoken in 2+ years (save for Phase 2)
 
-**Success Metric:** 50-100 contacts identified and categorised
+**Success Metric:** 20-30 high-quality contacts identified and categorised (focus on highest-probability conversions)
 
 ---
 
 ### Action 2.2: Personal Outreach - Wave 1 (High Priority Contacts, Days 3-7)
 **Owner:** Joe
 **Deadline:** Week 1, Friday 5 PM
-**Deliverable:** 25-30 personal messages sent to high-priority contacts
+**Deliverable:** 10-15 personal messages sent to highest-priority contacts
 
 **Channel Priority:**
 1. **Phone call** (if close relationship) - Highest conversion, immediate feedback
@@ -296,28 +321,28 @@ P.S. - If it's useful for you, I'm happy to extend the free trial to anyone on y
 ```
 
 **Success Metrics:**
-- 25-30 messages sent by end of Week 1
-- 60-80% response rate (warm relationships)
-- 15-20 demo bookings or trial signups
-- 8-12 paying customers from Wave 1
+- 10-15 messages sent by end of Week 1
+- 50-60% response rate (warm relationships, but realistic)
+- 3-5 demo bookings or trial signups
+- 1-2 paying customers from Wave 1 (converting in Week 2-4)
 
 ---
 
 ### Action 2.3: Personal Outreach - Wave 2 (Medium Priority Contacts, Week 2)
 **Owner:** Joe
 **Deadline:** Week 2, Friday 5 PM
-**Deliverable:** 25-30 personal messages sent to medium-priority contacts
+**Deliverable:** 10-15 personal messages sent to medium-priority contacts
 
 **Same approach as Wave 1, but:**
 - Slightly less personalisation (still mention connection: "We met at ICAC 2024")
 - Lead with the problem: "How much time does your team spend analysing USDA and COT reports each week?"
-- Include social proof from Wave 1: "I've had 10 advisors trial it this week - feedback has been great"
+- Include social proof from Wave 1: "I've had 5 advisors trial it this week - feedback has been great"
 
 **Success Metrics:**
-- 25-30 messages sent
-- 40-60% response rate (medium relationships)
-- 10-15 trial signups
-- 5-8 paying customers from Wave 2
+- 10-15 messages sent
+- 30-40% response rate (medium relationships)
+- 2-3 trial signups
+- 0-1 paying customers from Wave 2 (conversions may happen in Weeks 3-4)
 
 ---
 
@@ -357,10 +382,10 @@ P.S. - If it's useful for you, I'm happy to extend the free trial to anyone on y
 - Close: "Can I send you the trial link right now?"
 
 **Success Metrics:**
-- 20-30 demo calls completed by end of Week 3
-- 70%+ demo → trial conversion
-- 50%+ trial → paid conversion
-- 10+ paying customers from demos
+- 5-10 demo calls completed by end of Week 3 (only those who request demos)
+- 60-70% demo → trial conversion (realistic)
+- 30-40% trial → paid conversion (learning phase)
+- 1-2 paying customers from demos
 
 ---
 
@@ -372,15 +397,15 @@ P.S. - If it's useful for you, I'm happy to extend the free trial to anyone on y
 **Tracking Metrics:**
 | Metric | Target | Actual | Notes |
 |--------|--------|--------|-------|
-| Contacts identified | 50-100 | ___ | |
-| Wave 1 messages sent | 25-30 | ___ | High priority |
-| Wave 1 response rate | 60-80% | ___ | |
-| Wave 2 messages sent | 25-30 | ___ | Medium priority |
-| Wave 2 response rate | 40-60% | ___ | |
-| Demo bookings | 20-30 | ___ | |
-| Trial signups | 30-40 | ___ | |
-| Trial → Paid conversion | 50%+ | ___ | |
-| **Total customers** | **10+** | **___** | |
+| Contacts identified | 20-30 | ___ | Quality over quantity |
+| Wave 1 messages sent | 10-15 | ___ | Highest priority |
+| Wave 1 response rate | 50-60% | ___ | |
+| Wave 2 messages sent | 10-15 | ___ | Medium priority |
+| Wave 2 response rate | 30-40% | ___ | |
+| Demo bookings | 5-10 | ___ | |
+| Trial signups | 4-6 | ___ | |
+| Trial → Paid conversion | 30-40% | ___ | Learning phase |
+| **Total customers** | **1-2** | **___** | **New customers from this source** |
 
 **Weekly Actions:**
 - Update spreadsheet with all outreach activity
@@ -390,61 +415,54 @@ P.S. - If it's useful for you, I'm happy to extend the free trial to anyone on y
 - Video testimonial request from converted customers
 
 **Success Metrics:**
-- 10+ paying customers from personal network by Week 4
-- 50%+ trial-to-paid conversion rate
-- 3+ video testimonials from personal network customers
-- 5+ referrals from personal network customers
+- 1-2 new paying customers from personal network by Week 4
+- 30-40% trial-to-paid conversion rate (learning phase)
+- 1 video testimonial from personal network customer (genuine story)
+- 1-2 referrals from personal network customers (proves referral loop works)
 
 ---
 
-## OBJECTIVE 3: Industry Relationships → Viral Momentum with 5-10+ Customers
+## OBJECTIVE 3: Industry Relationships → Plant Seeds for Future Growth (0-1 Customers in Phase 1)
 
 ### Action 3.1: Identify Industry Influencers and Favour-Ask Targets (Days 3-5)
 **Owner:** Joe
 **Deadline:** Thursday, Week 1, 5 PM
-**Deliverable:** List of 10-20 industry influencers who can amplify Macrovesta
+**Deliverable:** List of 5-10 high-value industry influencers who can amplify Macrovesta
 
-**Target Categories:**
+**Target Categories (focus on highest-value only for Phase 1):**
 
-**1. Trade Association Leaders (5-10 contacts)**
-- National Cotton Council executives
-- ICAC (International Cotton Advisory Committee) board members
-- Local cotton grower associations
-- Agricultural finance associations
+**1. Industry Publication Editors (2-3 contacts)**
+- Cotton Outlook (weekly newsletter editor) - if Joe has a strong relationship
+- Cotton Grower Magazine (editorial team) - if Joe has existing connection
+- LinkedIn Pulse (Joe's own articles)
 
-**2. Industry Publication Editors (3-5 contacts)**
-- Cotton Outlook (weekly newsletter editor)
-- Cotton Grower Magazine (editorial team)
-- AgFunder News (technology beat reporter)
-- Farm Progress (cotton farming editor)
+**2. Trade Association Leaders (1-2 contacts)**
+- Only those Joe knows personally (not cold outreach)
+- National Cotton Council - if existing relationship
+- Local cotton associations - if Joe is a member
 
-**3. LinkedIn Influencers (5-10 contacts)**
-- Cotton traders with 5K+ followers
-- Commodity advisors with active LinkedIn presence
-- Agricultural technology commentators
+**3. Past Consulting Clients with Teams (1-2 contacts)**
+- Earlam & Partners clients who could share with their team
+- Firms Joe has worked with who trust his recommendations
 
-**4. Conference Organisers (2-3 contacts)**
-- ICAC conference organisers
-- National Cotton Council events
-- Regional cotton trading conferences
-
-**5. Past Consulting Clients with Large Teams (3-5 contacts)**
-- Earlam & Partners clients with 10+ person advisory teams
-- Cotton trading firms with internal distribution lists
+**Skip for Phase 1:**
+- ❌ Conference organisers (too slow, Phase 2-3)
+- ❌ LinkedIn influencers (unless existing friends)
+- ❌ Cold outreach to any influencers
 
 **Spreadsheet Format:**
 | Name | Organisation | Platform/Reach | Relationship Strength | Ask Type | Priority |
 |------|--------------|----------------|----------------------|----------|----------|
-| Jane Doe | Cotton Outlook | Newsletter (10K subs) | Strong (worked together 5 yrs) | Feature/mention | High |
+| Jane Doe | Cotton Outlook | Newsletter (10K subs) | Strong (worked together 5 yrs) | Guest article | High |
 
-**Success Metric:** 10-20 influencers identified with clear ask strategy
+**Success Metric:** 5-10 high-value influencers identified (quality over quantity, must have existing relationship)
 
 ---
 
 ### Action 3.2: Industry Favour-Asks - Wave 1 (High Priority, Week 2)
 **Owner:** Joe
 **Deadline:** Week 2, Friday 5 PM
-**Deliverable:** 5-10 personalised favour-asks sent to high-priority influencers
+**Deliverable:** 3-5 personalised favour-asks sent to highest-priority influencers (only those with strong existing relationships)
 
 **Favour-Ask Email Template:**
 
@@ -495,22 +513,21 @@ feedback has always been invaluable.
 - Speaking opportunity at future Macrovesta events
 
 **Success Metrics:**
-- 5-10 favour-asks sent
-- 3-5 yeses (30-50% success rate on high-priority asks)
-- Each "yes" reaches 500-5,000 people
-- 15-150 trials from favour-ask amplification
+- 3-5 favour-asks sent (only to those Joe knows well)
+- 1-2 yeses (realistic for even warm asks - people are busy)
+- Each "yes" plants seeds for Phase 2-3 (may not convert immediately)
+- Goal: Relationships activated, not immediate conversions
 
 ---
 
 ### Action 3.3: Guest Article Placements (Weeks 2-4)
 **Owner:** Joe + Macrovesta Team (Cold Lava can help with writing)
-**Deadline:** Week 2: Pitch sent. Week 4: Article published.
-**Deliverable:** 1-2 guest articles published in industry publications
+**Deadline:** Week 2: Pitch sent. Week 4-6: Article published (if accepted).
+**Deliverable:** 1 guest article pitch sent, ideally 1 published (but acceptance may take until Phase 2)
 
-**Target Publications:**
-1. **Cotton Outlook** - Weekly newsletter (highest reach)
-2. **Cotton Grower Magazine** - Monthly publication
-3. **LinkedIn Pulse** - By Joe (can republish to LinkedIn influencers)
+**Target Publications (pick ONE for Phase 1):**
+1. **Cotton Outlook** - Weekly newsletter (if Joe has editor relationship)
+2. **LinkedIn Pulse** - By Joe (easiest to publish, no gatekeepers)
 
 **Article Angle (NOT sales pitch):**
 
@@ -564,11 +581,10 @@ Joe Earlam
 ```
 
 **Success Metrics:**
-- 2-3 article pitches sent
-- 1-2 articles accepted and published
-- Each article reaches 5,000-20,000 readers
-- 2-5% click-through → 100-1,000 clicks
-- 20% trial signup → 20-200 trials from articles
+- 1 article pitch sent (Cotton Outlook if relationship exists, OR publish on LinkedIn Pulse)
+- 1 article published by end of Week 4 (or early Phase 2 if external publication)
+- LinkedIn Pulse article: 500-2,000 views realistic (if Joe's network shares)
+- Goal: Thought leadership and seeds planted, not immediate conversions in Phase 1
 
 ---
 
@@ -615,9 +631,9 @@ Joe
 
 **Success Metrics:**
 - 100% of paying customers receive referral ask within 48 hours
-- 30-40% of customers refer at least 1 person
-- 50%+ referral trial-to-paid conversion (warm intro)
-- 5-10 customers from referrals by Week 4
+- 1-2 customers refer someone in Phase 1 (even ONE referral proves it works)
+- 40-50% referral trial-to-paid conversion (warm intros convert better)
+- Goal: Prove referral loop works, not massive volume in Phase 1
 
 ---
 
@@ -629,17 +645,17 @@ Joe
 **Tracking Metrics:**
 | Metric | Target | Actual | Notes |
 |--------|--------|--------|-------|
-| Influencers identified | 10-20 | ___ | |
-| Favour-asks sent | 5-10 | ___ | |
-| Favour-ask yeses | 3-5 | ___ | |
-| Guest article pitches | 2-3 | ___ | |
-| Articles published | 1-2 | ___ | |
-| Referral programme live | Week 2 | ___ | |
-| Customers enrolled in referral | 100% | ___ | |
-| Referrals generated | 10-20 | ___ | |
-| Referral → Trial conversion | 80%+ | ___ | |
-| Referral → Paid conversion | 50%+ | ___ | |
-| **Total customers (industry + referral)** | **5-10+** | **___** | |
+| Influencers identified | 5-10 | ___ | Quality only |
+| Favour-asks sent | 3-5 | ___ | Existing relationships only |
+| Favour-ask yeses | 1-2 | ___ | Realistic |
+| Guest article pitches | 1 | ___ | Cotton Outlook OR LinkedIn |
+| Articles published | 1 | ___ | Might be Week 5-6 |
+| Referral programme live | Week 2 | ___ | Launch early |
+| Customers enrolled in referral | 100% | ___ | All paying customers |
+| Referrals generated | 1-2 | ___ | Even one proves it works |
+| Referral → Trial conversion | 80%+ | ___ | Warm intros |
+| Referral → Paid conversion | 40-50% | ___ | |
+| **Total customers (industry + referral)** | **0-1** | **___** | **Bonus if happens in Phase 1** |
 
 **Weekly Actions:**
 - Update influencer outreach tracker
@@ -649,10 +665,10 @@ Joe
 - Highlight successful referrers (social recognition)
 
 **Success Metrics:**
-- 5-10+ paying customers from industry relationships and referrals by Week 4
-- 1-2 guest articles published creating long-tail traffic
-- 3-5 industry influencers actively promoting Macrovesta
-- Self-sustaining referral loop established (customers bringing customers)
+- 0-1 paying customer from industry relationships and referrals by Week 4 (bonus if happens)
+- 1 guest article published or pitched (long-tail content for Phase 2-3)
+- 1-2 industry influencers aware and supportive (seeds planted for future)
+- Referral programme launched and proven (even 1 referral validates the concept)
 
 ---
 
@@ -662,24 +678,29 @@ Joe
 
 ### Week [X] Review
 
-**THE 1 Progress: Towards 30+ Customers and £4,500+ MRR**
-- Current customers: ___
+**THE 1 Progress: Towards 10-15 Trials, 3-5 Conversions (6-8 Total Customers)**
+- Current customers (total): ___ (started with 3)
+- New customers this week: ___
 - Current MRR: £___
 - On track? Yes / No / At Risk
 
 **THE 3 Objectives Progress:**
 
-**Objective 1: Liverpool Cotton Brokers → 15-20 Customers**
+**Objective 1: Liverpool Cotton Brokers → 5-8 Trials, 2-3 Paying Customers**
+- Trials to date: ___
 - Customers to date: ___
 - Actions completed this week: ___
 - Blockers: ___
 
-**Objective 2: Personal Network → 10+ Customers**
+**Objective 2: Personal Network → 4-6 Trials, 1-2 Paying Customers**
+- Trials to date: ___
 - Customers to date: ___
 - Actions completed this week: ___
 - Blockers: ___
 
-**Objective 3: Industry/Referrals → 5-10+ Customers**
+**Objective 3: Industry/Referrals → Seeds Planted (0-1 Customers Bonus)**
+- Relationships activated: ___
+- Referrals generated: ___
 - Customers to date: ___
 - Actions completed this week: ___
 - Blockers: ___
@@ -687,12 +708,13 @@ Joe
 **Key Metrics:**
 | Metric | Week 1 | Week 2 | Week 3 | Week 4 | Target |
 |--------|--------|--------|--------|--------|--------|
-| Trial signups | ___ | ___ | ___ | ___ | 50-75 |
-| Trial → Paid conv. | ___% | ___% | ___% | ___% | 50%+ |
-| Paying customers | ___ | ___ | ___ | ___ | 30-50 |
-| MRR | £___ | £___ | £___ | £___ | £4,500-7,500 |
-| Churn | ___% | ___% | ___% | ___% | <15% |
-| Video testimonials | ___ | ___ | ___ | ___ | 10+ |
+| Trial signups | ___ | ___ | ___ | ___ | 10-15 total |
+| Trial → Paid conv. | ___% | ___% | ___% | ___% | 30-40% |
+| Total customers | ___ | ___ | ___ | ___ | 6-8 |
+| New customers | ___ | ___ | ___ | ___ | 3-5 |
+| MRR | £___ | £___ | £___ | £___ | £900-1,200 |
+| Churn | ___% | ___% | ___% | ___% | <20% |
+| Video testimonials | ___ | ___ | ___ | ___ | 3+ |
 
 **Wins This Week:**
 - [Biggest win]
@@ -714,25 +736,29 @@ Joe
 # Go/No-Go Decision Point (End of Week 4)
 
 ## Go to Phase 2 If:
-✅ 20+ paying customers
-✅ £3,000+ MRR
-✅ 5+ video testimonials collected
-✅ Demo → Paid conversion >30%
-✅ Churn <15% in first month
-✅ Clear understanding of why customers bought (can replicate in ads)
+✅ 5+ total paying customers (up from 3 - shows growth is happening)
+✅ £750+ MRR (proving people will pay)
+✅ 2-3 video testimonials collected (genuine user stories)
+✅ Trial → Paid conversion >25% (baseline proven)
+✅ Churn <25% in first month (acceptable for learning phase)
+✅ Clear understanding of why customers bought AND why they didn't (can improve messaging)
+✅ Product working reliably (no major technical issues)
 
-**If YES to all:** Proceed to Phase 2 (paid acquisition). Budget: £1,500-3,000/month.
+**If YES to most:** Proceed to Phase 2 (paid acquisition testing). Budget: £1,500-3,000/month.
 
 ---
 
 ## Pause and Optimise If:
-⚠️ <10 paying customers after 4 weeks
-⚠️ Demo → Paid conversion <20%
-⚠️ High churn (>30% in first month)
-⚠️ Consistent objection you can't overcome
-⚠️ Product issues causing trial drop-off
+⚠️ <5 total paying customers after 4 weeks (no growth from baseline of 3)
+⚠️ Trial → Paid conversion <20% (something fundamentally wrong)
+⚠️ High churn (>40% in first month - product-market fit issue)
+⚠️ Consistent objection you can't overcome (pricing? value prop? competition?)
+⚠️ Product issues causing trial drop-off (technical problems, confusing onboarding)
+⚠️ Can't get even 10-15 people to try it for free (demand issue)
 
 **If YES to any:** Fix messaging/product before spending money on ads. Extend Phase 1 by 2-4 weeks. Do not proceed to paid ads until fundamentals are solid.
+
+**Phase 1 is about learning, not scale. It's OK to be slower than planned - better to get it right than to rush into paid ads with broken messaging.**
 
 ---
 

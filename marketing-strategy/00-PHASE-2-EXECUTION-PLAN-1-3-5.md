@@ -17,53 +17,75 @@ This plan uses the 1-3-5® business planning framework - the **lifeblood** of ou
 
 # THE 1: Our Phase 2 Vision (Ultimate Goal)
 
-## "By the end of Week 12, we have 100+ paying Macrovesta customers generating £15,000+ monthly recurring revenue with validated paid acquisition channels (Google Ads + LinkedIn Ads) operating at <£200 CAC, and organic content producing qualified leads."
+## "By the end of Week 12, we have 25-35 total paying Macrovesta customers generating £3,750-£5,250 monthly recurring revenue, with Google Ads and LinkedIn Ads both proven to work at acceptable CAC (<£250), organic content starting to produce leads, and clear understanding of what messaging converts."
 
-**Success Metrics:**
-- ✅ 100+ paying customers
-- ✅ £15,000+ MRR
-- ✅ Google Ads: 40+ customers at <£150 CAC
-- ✅ LinkedIn Ads: 30+ customers at <£200 CAC
-- ✅ Content marketing: 15+ organic customers
-- ✅ <10% churn rate
-- ✅ 500+ monthly organic website visitors
-- ✅ 10+ video testimonials
+**Success Metrics (Starting from 6-8 customers after Phase 1):**
+- ✅ 25-35 total paying customers (17-27 new customers in Phase 2)
+- ✅ £3,750-£5,250 MRR
+- ✅ Google Ads: 10-15 new customers at <£250 CAC (testing and learning)
+- ✅ LinkedIn Ads: 5-10 new customers at <£300 CAC (more expensive but worth testing)
+- ✅ Content marketing: 2-5 organic customers (long-tail, starting to work)
+- ✅ <20% churn rate (still learning and improving)
+- ✅ 300-500 monthly organic website visitors (building SEO foundation)
+- ✅ 5-8 total video testimonials (building social proof library)
 
 **Why This Matters:**
-- Proves paid acquisition works at scale
-- Establishes predictable customer acquisition math
-- Builds organic traffic foundation for Phase 3
-- Creates library of social proof for future campaigns
-- Validates LTV:CAC ratio >9:1
+- **Proves paid acquisition can work** (even at modest scale)
+- **Establishes baseline CAC** for each channel (can optimize in Phase 3)
+- **Tests messaging at scale** beyond warm network (different from Phase 1)
+- **Builds organic content foundation** (compounds over time)
+- **Validates LTV:CAC ratio** >6:1 (healthy for B2B SaaS)
+- **Creates social proof assets** for scaling in Phase 3
 
 ---
 
 # THE 3: Mission-Critical Objectives
 
-## Objective 1: "Google Search Ads have generated 40+ paying customers at <£150 CAC"
+## Objective 1: "Google Search Ads have generated 10-15 new paying customers at <£250 CAC"
 
 **Why This Is Critical:**
 Google Search Ads target high-intent advisors actively searching for solutions ("cotton report automation", "commodity advisor tools", "Bloomberg alternative"). These are the warmest cold leads - they know they have the Friday problem and are looking for answers.
 
-Success here proves we can profitably acquire customers through paid channels.
+This is Phase 2's primary testing ground - if we can't make Google work at £1,000-1,200/month spend, we need to fix messaging before scaling.
+
+**Realistic Expectations:**
+- 8 weeks of testing (Weeks 5-12)
+- £1,000-1,200/month budget = £8,000-9,600 total spend
+- Target: 10-15 paying customers
+- CAC: £200-250 acceptable for testing phase (can optimize later)
+- **This objective proves paid acquisition can work**
 
 ---
 
-## Objective 2: "LinkedIn Ads have generated 30+ paying customers at <£200 CAC"
+## Objective 2: "LinkedIn Ads have generated 5-10 new paying customers at <£300 CAC"
 
 **Why This Is Critical:**
 LinkedIn allows precise targeting by job title ("Commodity Advisor", "Cotton Broker", "Agricultural Analyst"). While more expensive than Google, LinkedIn reaches advisors who aren't actively searching yet - building awareness and capturing them before competitors do.
 
-Success here diversifies acquisition channels (not dependent on Google alone).
+This diversifies acquisition channels (not dependent on Google alone) and tests whether targeting beats intent-based search.
+
+**Realistic Expectations:**
+- 8 weeks of testing (Weeks 5-12)
+- £700-1,000/month budget = £5,600-8,000 total spend
+- Target: 5-10 paying customers
+- CAC: £250-300 acceptable for testing (LinkedIn is pricier, but worth testing)
+- **This objective proves channel diversification**
 
 ---
 
-## Objective 3: "Content marketing has produced 15+ paying customers organically with 500+ monthly visitors"
+## Objective 3: "Content marketing has produced 2-5 organic customers with 300-500 monthly visitors"
 
 **Why This Is Critical:**
 Paid ads are expensive and stop when you stop paying. Organic content creates compound growth - each blog post continues generating traffic and leads months after publication. This builds long-term acquisition foundation.
 
-Success here reduces overall CAC as organic traffic scales.
+Phase 2 is about planting content seeds that will compound in Phase 3 and beyond.
+
+**Realistic Expectations:**
+- 9 blog posts published over 8 weeks
+- SEO takes 2-3 months to work (content published in Week 5-8 may not rank until Week 12+)
+- Target: 300-500 monthly organic visitors by Week 12 (early traction)
+- 2-5 organic customers realistic (long-tail conversions)
+- **This objective builds the foundation for future free acquisition**
 
 ---
 
