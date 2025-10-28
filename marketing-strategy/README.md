@@ -10,9 +10,12 @@
 
 ## 📄 Quick Start
 
+**🚀 NEW: Done-For-You Execution Service** (Ready to Present to Joe)
+- `00-EXECUTION-FRAMEWORK-PURE-DONE-FOR-YOU.md` - Complete service offering where Cold Lava handles 100% of outreach, Joe provides intel and closes demos
+
 **For Client Presentation:** [Download PDF](../Macrovesta-Marketing-Strategy.pdf) (Executive Summary - 18 KB)
 
-**For Implementation:** Start with documents in this order:
+**For DIY Implementation:** Start with documents in this order:
 1. `00-EXECUTIVE-SUMMARY.md` - Overview and phase breakdown
 2. `02-LEAD-GENERATION-PLAYBOOK.md` - Week-by-week execution plan
 3. `04-EMAIL-TEMPLATES.md` - Copy-paste ready templates
